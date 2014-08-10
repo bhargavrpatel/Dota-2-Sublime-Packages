@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[RotationDelta(${1:QAngle a}, ${2:QAngle b})]]></content>
+	<tabTrigger>RotationDelta</tabTrigger>
+	<scope>source.lua</scope>
+	<description>Find the delta between two QAngles.</description>
+</snippet>
+

@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[TraceHull(${1:handle a})]]></content>
+	<tabTrigger>TraceHull</tabTrigger>
+	<scope>source.lua</scope>
+	<description>Pass table - Inputs: start, end, min, max, mask, ignore  -- outputs: pos, fraction, hit, enthit, startsolid.</description>
+</snippet>
+

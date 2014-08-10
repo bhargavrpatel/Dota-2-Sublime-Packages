@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[FireEntityIOInputNameOnly(${1:ehandle a}, ${2:string b})]]></content>
+	<tabTrigger>FireEntityIOInputNameOnly</tabTrigger>
+	<scope>source.lua</scope>
+	<description>Fire Entity's Action Input w/no data.</description>
+</snippet>
+

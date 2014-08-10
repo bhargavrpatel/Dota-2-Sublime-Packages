@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[StopSoundEvent(${1:string a}, ${2:handle b})]]></content>
+	<tabTrigger>StopSoundEvent</tabTrigger>
+	<scope>source.lua</scope>
+	<description>Stops a sound event.</description>
+</snippet>
+

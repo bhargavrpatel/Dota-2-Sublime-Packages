@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[PauseGame(${1:bool a})]]></content>
+	<tabTrigger>PauseGame</tabTrigger>
+	<scope>source.lua</scope>
+	<description>Pause or unpause the game.</description>
+</snippet>
+

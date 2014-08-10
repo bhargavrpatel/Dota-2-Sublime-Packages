@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[EntIndexToHScript(${1:int a})]]></content>
+	<tabTrigger>EntIndexToHScript</tabTrigger>
+	<scope>source.lua</scope>
+	<description>Turn an entity index integer to an HScript representing that entity's script instance.</description>
+</snippet>
+

@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[RemoveSpawnGroupFilterProxy(${1:string a})]]></content>
+	<tabTrigger>RemoveSpawnGroupFilterProxy</tabTrigger>
+	<scope>source.lua</scope>
+	<description>Remove the C proxy for a script-based spawn group filter.</description>
+</snippet>
+
