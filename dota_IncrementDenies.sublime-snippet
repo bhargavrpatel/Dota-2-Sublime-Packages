@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[IncrementDenies() ${1:--[[Returns:void
+Value is stored in PlayerResource.
+]]}]]></content>
+	<tabTrigger>IncrementDenies</tabTrigger>
+	<scope>source.lua</scope>
+	<description>Value is stored in PlayerResource.</description>
+</snippet>

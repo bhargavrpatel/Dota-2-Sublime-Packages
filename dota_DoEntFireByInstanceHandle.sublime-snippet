@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[DoEntFireByInstanceHandle(${1:handle a}, ${2:string b}, ${3:string c}, ${4:float d}, ${5:handle e}, ${6:handle f}) ${7:--[[Returns:void
+EntFireByHandle:Generate and entity i/o event
+]]}]]></content>
+	<tabTrigger>DoEntFireByInstanceHandle</tabTrigger>
+	<scope>source.lua</scope>
+	<description>EntFireByHandle:Generate and entity i/o event</description>
+</snippet>

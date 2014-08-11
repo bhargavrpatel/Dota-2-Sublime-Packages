@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[GetMostRecentDamageTime() ${1:--[[Returns:float
+No Description Set
+]]}]]></content>
+	<tabTrigger>GetMostRecentDamageTime</tabTrigger>
+	<scope>source.lua</scope>
+	<description>No Description Set</description>
+</snippet>

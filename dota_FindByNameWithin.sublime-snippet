@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[FindByNameWithin(${1:handle startFrom}, ${2:string name}, ${3:Vector origin}, ${4:float maxRadius}) ${5:--[[Returns:handle
+Find entities by name within a radius. Pass ''nil'' to start an iteration, or reference to a previously found entity to continue a search
+]]}]]></content>
+	<tabTrigger>FindByNameWithin</tabTrigger>
+	<scope>source.lua</scope>
+	<description>Find entities by name within a radius. Pass ''nil'' to start an iteration, or reference to a previously found entity to continue a search</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[GetCurrentXP() ${1:--[[Returns:int
+Returns the amount of XP
+]]}]]></content>
+	<tabTrigger>GetCurrentXP</tabTrigger>
+	<scope>source.lua</scope>
+	<description>Returns the amount of XP</description>
+</snippet>

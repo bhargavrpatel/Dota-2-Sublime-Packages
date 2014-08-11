@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[GetLastIdleChangeTime() ${1:--[[Returns:float
+Get the last game time that this unit switched to/from idle state.
+]]}]]></content>
+	<tabTrigger>GetLastIdleChangeTime</tabTrigger>
+	<scope>source.lua</scope>
+	<description>Get the last game time that this unit switched to/from idle state.</description>
+</snippet>

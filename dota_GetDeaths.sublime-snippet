@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[GetDeaths() ${1:--[[Returns:int
+Value is stored in PlayerResource.
+]]}]]></content>
+	<tabTrigger>GetDeaths</tabTrigger>
+	<scope>source.lua</scope>
+	<description>Value is stored in PlayerResource.</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[PerformAttack(${1:handle a}, ${2:bool b}, ${3:bool c}, ${4:bool d}, ${5:bool e}) ${6:--[[Returns:void
+Performs an attack on a target. Params: Target, bUseCastAttackOrb, bProcessProcs, bSkipCooldown, bIgnoreInvis
+]]}]]></content>
+	<tabTrigger>PerformAttack</tabTrigger>
+	<scope>source.lua</scope>
+	<description>Performs an attack on a target. Params: Target, bUseCastAttackOrb, bProcessProcs, bSkipCooldown, bIgnoreInvis</description>
+</snippet>

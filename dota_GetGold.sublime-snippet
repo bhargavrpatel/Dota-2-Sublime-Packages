@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[GetGold() ${1:--[[Returns:int
+Returns gold amount for the player owning this hero
+]]}]]></content>
+	<tabTrigger>GetGold</tabTrigger>
+	<scope>source.lua</scope>
+	<description>Returns gold amount for the player owning this hero</description>
+</snippet>

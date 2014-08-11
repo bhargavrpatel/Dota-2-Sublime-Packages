@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[Kill(${1:handle a}, ${2:handle b}) ${3:--[[Returns:void
+Kills this NPC, with the params Ability and Attacker
+]]}]]></content>
+	<tabTrigger>Kill</tabTrigger>
+	<scope>source.lua</scope>
+	<description>Kills this NPC, with the params Ability and Attacker</description>
+</snippet>

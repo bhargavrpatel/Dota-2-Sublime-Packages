@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[SetBool(${1:string variableName}, ${2:bool value}) ${3:--[[Returns:void
+SetBool(name, val) : sets the value of the convar to the ''bool''.
+]]}]]></content>
+	<tabTrigger>SetBool</tabTrigger>
+	<scope>source.lua</scope>
+	<description>SetBool(name, val) : sets the value of the convar to the ''bool''.</description>
+</snippet>

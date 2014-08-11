@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[RandomVector(${1:float a}) ${2:--[[Returns:Vector
+Get a random 2D ''vector''. Argument (''float'') is the minimum length of the returned vector.
+]]}]]></content>
+	<tabTrigger>RandomVector</tabTrigger>
+	<scope>source.lua</scope>
+	<description>Get a random 2D ''vector''. Argument (''float'') is the minimum length of the returned vector.</description>
+</snippet>

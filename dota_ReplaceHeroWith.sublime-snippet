@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[ReplaceHeroWith(${1:int a}, ${2:string b}, ${3:int c}, ${4:int d}) ${5:--[[Returns:handle
+(playerID, heroClassName, gold, XP) - replaces the player's hero with a new one of the specified class, gold and XP
+]]}]]></content>
+	<tabTrigger>ReplaceHeroWith</tabTrigger>
+	<scope>source.lua</scope>
+	<description>(playerID, heroClassName, gold, XP) - replaces the player's hero with a new one of the specified class, gold and XP</description>
+</snippet>

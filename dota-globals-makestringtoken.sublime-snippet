@@ -1,7 +1,0 @@
-<snippet>
-	<content><![CDATA[MakeStringToken(${1:string a})]]></content>
-	<tabTrigger>MakeStringToken</tabTrigger>
-	<scope>source.lua</scope>
-	<description>Checks to see if the given hScript is a valid entity.</description>
-</snippet>
-

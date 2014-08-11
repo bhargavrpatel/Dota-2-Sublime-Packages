@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[SetIntAttr(${1:string a}, ${2:int b}) ${3:--[[Returns:void
+Set Integer Attribute
+]]}]]></content>
+	<tabTrigger>SetIntAttr</tabTrigger>
+	<scope>source.lua</scope>
+	<description>Set Integer Attribute</description>
+</snippet>

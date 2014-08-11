@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[DebugDrawBoxDirection(${1:Vector a}, ${2:Vector b}, ${3:Vector c}, ${4:Vector d}, ${5:Vector e}, ${6:float f}, ${7:float g}) ${8:--[[Returns:void
+Draw a debug forward box (cent, min, max, forward, vRgb, a, duration)
+]]}]]></content>
+	<tabTrigger>DebugDrawBoxDirection</tabTrigger>
+	<scope>source.lua</scope>
+	<description>Draw a debug forward box (cent, min, max, forward, vRgb, a, duration)</description>
+</snippet>

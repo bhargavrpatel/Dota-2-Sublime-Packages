@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[IsRangedAttacker() ${1:--[[Returns:bool
+Is this unit a ranged attacker?
+]]}]]></content>
+	<tabTrigger>IsRangedAttacker</tabTrigger>
+	<scope>source.lua</scope>
+	<description>Is this unit a ranged attacker?</description>
+</snippet>

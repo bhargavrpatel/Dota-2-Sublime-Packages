@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[__len() ${1:--[[Returns:float
+Overloaded # returns the length of the vector
+]]}]]></content>
+	<tabTrigger>__len</tabTrigger>
+	<scope>source.lua</scope>
+	<description>Overloaded # returns the length of the vector</description>
+</snippet>

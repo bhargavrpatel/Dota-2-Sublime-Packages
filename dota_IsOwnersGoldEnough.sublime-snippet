@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[IsOwnersGoldEnough(${1:int a}) ${2:--[[Returns:bool
+No Description Set
+]]}]]></content>
+	<tabTrigger>IsOwnersGoldEnough</tabTrigger>
+	<scope>source.lua</scope>
+	<description>No Description Set</description>
+</snippet>

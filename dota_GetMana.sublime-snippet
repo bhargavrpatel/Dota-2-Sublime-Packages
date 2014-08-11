@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[GetMana() ${1:--[[Returns:float
+Get the mana on this unit.
+]]}]]></content>
+	<tabTrigger>GetMana</tabTrigger>
+	<scope>source.lua</scope>
+	<description>Get the mana on this unit.</description>
+</snippet>

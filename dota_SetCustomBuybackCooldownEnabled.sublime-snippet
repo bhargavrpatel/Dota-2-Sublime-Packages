@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[SetCustomBuybackCooldownEnabled(${1:bool a}) ${2:--[[Returns:void
+Turns on capability to define custom buyback cooldowns.
+]]}]]></content>
+	<tabTrigger>SetCustomBuybackCooldownEnabled</tabTrigger>
+	<scope>source.lua</scope>
+	<description>Turns on capability to define custom buyback cooldowns.</description>
+</snippet>

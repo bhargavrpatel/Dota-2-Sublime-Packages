@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[GetAcquisitionRange() ${1:--[[Returns:float
+Gets the range at which this unit will auto-acquire.
+]]}]]></content>
+	<tabTrigger>GetAcquisitionRange</tabTrigger>
+	<scope>source.lua</scope>
+	<description>Gets the range at which this unit will auto-acquire.</description>
+</snippet>

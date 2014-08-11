@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[FindSensedEnemies() ${1:--[[Returns:table
+returns list of all enemy units within this unit's sight cone or sensing sphere
+]]}]]></content>
+	<tabTrigger>FindSensedEnemies</tabTrigger>
+	<scope>source.lua</scope>
+	<description>returns list of all enemy units within this unit's sight cone or sensing sphere</description>
+</snippet>

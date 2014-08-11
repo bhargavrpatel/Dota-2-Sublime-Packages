@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[SetAngles(${1:float pitch}, ${2:float yaw}, ${3:float roll}) ${4:--[[Returns:void
+Set entity pitch, yaw, roll
+]]}]]></content>
+	<tabTrigger>SetAngles</tabTrigger>
+	<scope>source.lua</scope>
+	<description>Set entity pitch, yaw, roll</description>
+</snippet>

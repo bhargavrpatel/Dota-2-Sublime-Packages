@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[GetForceAttackTarget() ${1:--[[Returns:handle
+No Description Set
+]]}]]></content>
+	<tabTrigger>GetForceAttackTarget</tabTrigger>
+	<scope>source.lua</scope>
+	<description>No Description Set</description>
+</snippet>

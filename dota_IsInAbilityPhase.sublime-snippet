@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[IsInAbilityPhase() ${1:--[[Returns:bool
+Returns whether the ability is currently casting.
+]]}]]></content>
+	<tabTrigger>IsInAbilityPhase</tabTrigger>
+	<scope>source.lua</scope>
+	<description>Returns whether the ability is currently casting.</description>
+</snippet>

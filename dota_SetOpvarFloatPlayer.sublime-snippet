@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[SetOpvarFloatPlayer(${1:string a}, ${2:string b}, ${3:string c}, ${4:float d}, ${5:handle e}) ${6:--[[Returns:void
+Sets an opvar value for a single player ( szStackName, szOperatorName, szOpvarName, flOpvarValue, hEnt )
+]]}]]></content>
+	<tabTrigger>SetOpvarFloatPlayer</tabTrigger>
+	<scope>source.lua</scope>
+	<description>Sets an opvar value for a single player ( szStackName, szOperatorName, szOpvarName, flOpvarValue, hEnt )</description>
+</snippet>

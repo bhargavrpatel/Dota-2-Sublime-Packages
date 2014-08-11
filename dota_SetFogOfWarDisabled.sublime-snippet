@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[SetFogOfWarDisabled(${1:bool a}) ${2:--[[Returns:void
+Turn the fog of war on or off.
+]]}]]></content>
+	<tabTrigger>SetFogOfWarDisabled</tabTrigger>
+	<scope>source.lua</scope>
+	<description>Turn the fog of war on or off.</description>
+</snippet>

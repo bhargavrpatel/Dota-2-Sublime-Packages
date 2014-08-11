@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[CreateUnitByName(${1:string a}, ${2:Vector b}, ${3:bool c}, ${4:handle d}, ${5:handle e}, ${6:int f}) ${7:--[[Returns:handle
+Creates a DOTA unit by its dota_npc_units.txt name ( szUnitName, vLocation, bFindClearSpace, hNPCOwner, hUnitOwner, iTeamNumber )
+]]}]]></content>
+	<tabTrigger>CreateUnitByName</tabTrigger>
+	<scope>source.lua</scope>
+	<description>Creates a DOTA unit by its dota_npc_units.txt name ( szUnitName, vLocation, bFindClearSpace, hNPCOwner, hUnitOwner, iTeamNumber )</description>
+</snippet>

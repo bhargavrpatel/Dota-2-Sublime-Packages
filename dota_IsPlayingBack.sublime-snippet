@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[IsPlayingBack() ${1:--[[Returns:bool
+If this scene is currently playing.
+]]}]]></content>
+	<tabTrigger>IsPlayingBack</tabTrigger>
+	<scope>source.lua</scope>
+	<description>If this scene is currently playing.</description>
+</snippet>

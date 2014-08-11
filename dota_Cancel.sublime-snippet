@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[Cancel() ${1:--[[Returns:void
+Cancel scene playback
+]]}]]></content>
+	<tabTrigger>Cancel</tabTrigger>
+	<scope>source.lua</scope>
+	<description>Cancel scene playback</description>
+</snippet>

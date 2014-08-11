@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[PayManaCost() ${1:--[[Returns:void
+No Description Set
+]]}]]></content>
+	<tabTrigger>PayManaCost</tabTrigger>
+	<scope>source.lua</scope>
+	<description>No Description Set</description>
+</snippet>

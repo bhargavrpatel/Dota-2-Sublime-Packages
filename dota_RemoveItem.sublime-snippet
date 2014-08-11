@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[RemoveItem(${1:handle a}) ${2:--[[Returns:void
+Removes the passed item from this unit's inventory.
+]]}]]></content>
+	<tabTrigger>RemoveItem</tabTrigger>
+	<scope>source.lua</scope>
+	<description>Removes the passed item from this unit's inventory.</description>
+</snippet>

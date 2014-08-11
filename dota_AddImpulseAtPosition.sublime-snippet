@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[AddImpulseAtPosition(${1:Vector a}, ${2:Vector b}) ${3:--[[Returns:void
+Apply an impulse at a worldspace position to the physics
+]]}]]></content>
+	<tabTrigger>AddImpulseAtPosition</tabTrigger>
+	<scope>source.lua</scope>
+	<description>Apply an impulse at a worldspace position to the physics</description>
+</snippet>

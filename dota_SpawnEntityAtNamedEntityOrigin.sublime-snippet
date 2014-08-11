@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[SpawnEntityAtNamedEntityOrigin(${1:string a}) ${2:--[[Returns:void
+Create an entity at the location of a named entity
+]]}]]></content>
+	<tabTrigger>SpawnEntityAtNamedEntityOrigin</tabTrigger>
+	<scope>source.lua</scope>
+	<description>Create an entity at the location of a named entity</description>
+</snippet>

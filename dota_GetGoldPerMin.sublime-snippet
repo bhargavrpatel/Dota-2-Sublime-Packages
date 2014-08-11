@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[GetGoldPerMin(${1:int a}) ${2:--[[Returns:float
+No Description Set
+]]}]]></content>
+	<tabTrigger>GetGoldPerMin</tabTrigger>
+	<scope>source.lua</scope>
+	<description>No Description Set</description>
+</snippet>

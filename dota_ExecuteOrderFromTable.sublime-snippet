@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[ExecuteOrderFromTable(${1:handle a}) ${2:--[[Returns:void
+Issue an order from a script table
+]]}]]></content>
+	<tabTrigger>ExecuteOrderFromTable</tabTrigger>
+	<scope>source.lua</scope>
+	<description>Issue an order from a script table</description>
+</snippet>

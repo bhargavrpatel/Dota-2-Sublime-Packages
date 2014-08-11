@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[GetInt(${1:string a}) ${2:--[[Returns:table
+GetInt(name) : returns the convar as an ''int''. May return ''nil'' if no such convar.
+]]}]]></content>
+	<tabTrigger>GetInt</tabTrigger>
+	<scope>source.lua</scope>
+	<description>GetInt(name) : returns the convar as an ''int''. May return ''nil'' if no such convar.</description>
+</snippet>

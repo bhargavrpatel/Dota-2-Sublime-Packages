@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[IsItem() ${1:--[[Returns:bool
+No Description Set
+]]}]]></content>
+	<tabTrigger>IsItem</tabTrigger>
+	<scope>source.lua</scope>
+	<description>No Description Set</description>
+</snippet>

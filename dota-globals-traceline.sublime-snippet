@@ -1,7 +1,0 @@
-<snippet>
-	<content><![CDATA[TraceLine(${1:handle a})]]></content>
-	<tabTrigger>TraceLine</tabTrigger>
-	<scope>source.lua</scope>
-	<description>Pass table - Inputs: startpos, endpos, mask, ignore  -- outputs: pos, fraction, hit, enthit, startsolid.</description>
-</snippet>
-

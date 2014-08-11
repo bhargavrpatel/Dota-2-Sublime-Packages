@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[GetCreationTime() ${1:--[[Returns:float
+No Description Set
+]]}]]></content>
+	<tabTrigger>GetCreationTime</tabTrigger>
+	<scope>source.lua</scope>
+	<description>No Description Set</description>
+</snippet>

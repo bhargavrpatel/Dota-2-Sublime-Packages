@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[GetUnitShareMaskForPlayer(${1:int a}, ${2:int b}) ${3:--[[Returns:int
+No Description Set
+]]}]]></content>
+	<tabTrigger>GetUnitShareMaskForPlayer</tabTrigger>
+	<scope>source.lua</scope>
+	<description>No Description Set</description>
+</snippet>

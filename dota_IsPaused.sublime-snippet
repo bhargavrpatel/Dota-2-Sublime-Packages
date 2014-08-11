@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[IsPaused() ${1:--[[Returns:bool
+If this scene is currently paused.
+]]}]]></content>
+	<tabTrigger>IsPaused</tabTrigger>
+	<scope>source.lua</scope>
+	<description>If this scene is currently paused.</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[ReleaseParticleIndex(${1:int particleId}) ${2:--[[Returns:void
+Frees the specified particle index
+]]}]]></content>
+	<tabTrigger>ReleaseParticleIndex</tabTrigger>
+	<scope>source.lua</scope>
+	<description>Frees the specified particle index</description>
+</snippet>

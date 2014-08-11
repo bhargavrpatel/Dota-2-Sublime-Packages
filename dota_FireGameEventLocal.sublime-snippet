@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[FireGameEventLocal(${1:string a}, ${2:handle b}) ${3:--[[Returns:void
+Fire a game event without broadcasting to the client.
+]]}]]></content>
+	<tabTrigger>FireGameEventLocal</tabTrigger>
+	<scope>source.lua</scope>
+	<description>Fire a game event without broadcasting to the client.</description>
+</snippet>

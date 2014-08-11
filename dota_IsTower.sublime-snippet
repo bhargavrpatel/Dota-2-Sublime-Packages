@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[IsTower() ${1:--[[Returns:bool
+Is this a tower?
+]]}]]></content>
+	<tabTrigger>IsTower</tabTrigger>
+	<scope>source.lua</scope>
+	<description>Is this a tower?</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[GetMainControllingPlayer() ${1:--[[Returns:int
+Returns the player ID of the controlling player.
+]]}]]></content>
+	<tabTrigger>GetMainControllingPlayer</tabTrigger>
+	<scope>source.lua</scope>
+	<description>Returns the player ID of the controlling player.</description>
+</snippet>

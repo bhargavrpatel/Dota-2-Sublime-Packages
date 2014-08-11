@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[DebugDrawClear() ${1:--[[Returns:void
+Try to clear all the debug overlay info
+]]}]]></content>
+	<tabTrigger>DebugDrawClear</tabTrigger>
+	<scope>source.lua</scope>
+	<description>Try to clear all the debug overlay info</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[MakeTeamLose(${1:int team}) ${2:--[[Returns:void
+Makes ths specified team lose
+]]}]]></content>
+	<tabTrigger>MakeTeamLose</tabTrigger>
+	<scope>source.lua</scope>
+	<description>Makes ths specified team lose</description>
+</snippet>

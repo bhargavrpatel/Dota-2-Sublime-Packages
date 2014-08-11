@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[Msg(${1:string a}) ${2:--[[Returns:void
+Print a message
+]]}]]></content>
+	<tabTrigger>Msg</tabTrigger>
+	<scope>source.lua</scope>
+	<description>Print a message</description>
+</snippet>

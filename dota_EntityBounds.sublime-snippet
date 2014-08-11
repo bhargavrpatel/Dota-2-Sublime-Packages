@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[EntityBounds(${1:ehandle a}, ${2:int b}, ${3:int c}, ${4:int d}, ${5:int e}, ${6:bool f}, ${7:float g}) ${8:--[[Returns:void
+Draws bounds of an entity
+]]}]]></content>
+	<tabTrigger>EntityBounds</tabTrigger>
+	<scope>source.lua</scope>
+	<description>Draws bounds of an entity</description>
+</snippet>

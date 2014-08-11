@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[Line2D(${1:Vector2D a}, ${2:Vector2D b}, ${3:int c}, ${4:int d}, ${5:int e}, ${6:int f}, ${7:float g}) ${8:--[[Returns:void
+Draws a line between two point's in screenspace
+]]}]]></content>
+	<tabTrigger>Line2D</tabTrigger>
+	<scope>source.lua</scope>
+	<description>Draws a line between two point's in screenspace</description>
+</snippet>

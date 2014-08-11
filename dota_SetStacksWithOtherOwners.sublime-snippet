@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[SetStacksWithOtherOwners(${1:bool a}) ${2:--[[Returns:void
+No Description Set
+]]}]]></content>
+	<tabTrigger>SetStacksWithOtherOwners</tabTrigger>
+	<scope>source.lua</scope>
+	<description>No Description Set</description>
+</snippet>

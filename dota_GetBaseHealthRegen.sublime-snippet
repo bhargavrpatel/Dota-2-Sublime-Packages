@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[GetBaseHealthRegen() ${1:--[[Returns:float
+No Description Set
+]]}]]></content>
+	<tabTrigger>GetBaseHealthRegen</tabTrigger>
+	<scope>source.lua</scope>
+	<description>No Description Set</description>
+</snippet>

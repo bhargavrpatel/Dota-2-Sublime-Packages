@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[SetPurchaseTime(${1:float a}) ${2:--[[Returns:void
+Set the purchase time of this item
+]]}]]></content>
+	<tabTrigger>SetPurchaseTime</tabTrigger>
+	<scope>source.lua</scope>
+	<description>Set the purchase time of this item</description>
+</snippet>

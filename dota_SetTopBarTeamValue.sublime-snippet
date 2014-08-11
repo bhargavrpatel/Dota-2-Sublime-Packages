@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[SetTopBarTeamValue(${1:int a}, ${2:int b}) ${3:--[[Returns:void
+Set the team values on the top game bar.
+]]}]]></content>
+	<tabTrigger>SetTopBarTeamValue</tabTrigger>
+	<scope>source.lua</scope>
+	<description>Set the team values on the top game bar.</description>
+</snippet>

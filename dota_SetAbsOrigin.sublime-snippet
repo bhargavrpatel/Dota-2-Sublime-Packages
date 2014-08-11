@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[SetAbsOrigin(${1:Vector origin}) ${2:--[[Returns:void
+SetAbsOrigin
+]]}]]></content>
+	<tabTrigger>SetAbsOrigin</tabTrigger>
+	<scope>source.lua</scope>
+	<description>SetAbsOrigin</description>
+</snippet>

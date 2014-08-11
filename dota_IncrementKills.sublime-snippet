@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[IncrementKills(${1:int kills}) ${2:--[[Returns:void
+Passed ID is for the victim, killer ID is ID of the current hero. Value is stored in PlayerResource.
+]]}]]></content>
+	<tabTrigger>IncrementKills</tabTrigger>
+	<scope>source.lua</scope>
+	<description>Passed ID is for the victim, killer ID is ID of the current hero. Value is stored in PlayerResource.</description>
+</snippet>

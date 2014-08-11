@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[PerformTaunt() ${1:--[[Returns:void
+No Description Set
+]]}]]></content>
+	<tabTrigger>PerformTaunt</tabTrigger>
+	<scope>source.lua</scope>
+	<description>No Description Set</description>
+</snippet>

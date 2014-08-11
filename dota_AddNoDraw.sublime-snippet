@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[AddNoDraw() ${1:--[[Returns:void
+Adds the no draw flag.
+]]}]]></content>
+	<tabTrigger>AddNoDraw</tabTrigger>
+	<scope>source.lua</scope>
+	<description>Adds the no draw flag.</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[SetNeverMoveToClearSpace(${1:bool a}) ${2:--[[Returns:void
+If set to true, we will never attempt to move this unit to clear space, even when it unphases.
+]]}]]></content>
+	<tabTrigger>SetNeverMoveToClearSpace</tabTrigger>
+	<scope>source.lua</scope>
+	<description>If set to true, we will never attempt to move this unit to clear space, even when it unphases.</description>
+</snippet>

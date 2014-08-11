@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[GetSceneByIndex(${1:int a}) ${2:--[[Returns:handle
+Returns the instance of the scene entity at the specified index.
+]]}]]></content>
+	<tabTrigger>GetSceneByIndex</tabTrigger>
+	<scope>source.lua</scope>
+	<description>Returns the instance of the scene entity at the specified index.</description>
+</snippet>

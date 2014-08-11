@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[IsPhased() ${1:--[[Returns:bool
+No Description Set
+]]}]]></content>
+	<tabTrigger>IsPhased</tabTrigger>
+	<scope>source.lua</scope>
+	<description>No Description Set</description>
+</snippet>

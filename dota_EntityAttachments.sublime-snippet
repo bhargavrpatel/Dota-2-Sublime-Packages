@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[EntityAttachments(${1:ehandle a}, ${2:float b}) ${3:--[[Returns:void
+Draws the attachments of the entity
+]]}]]></content>
+	<tabTrigger>EntityAttachments</tabTrigger>
+	<scope>source.lua</scope>
+	<description>Draws the attachments of the entity</description>
+</snippet>

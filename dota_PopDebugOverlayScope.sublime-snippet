@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[PopDebugOverlayScope() ${1:--[[Returns:void
+Pops the identifier used to group overlays. Overlays marked with this identifier can be deleted in a big batch.
+]]}]]></content>
+	<tabTrigger>PopDebugOverlayScope</tabTrigger>
+	<scope>source.lua</scope>
+	<description>Pops the identifier used to group overlays. Overlays marked with this identifier can be deleted in a big batch.</description>
+</snippet>

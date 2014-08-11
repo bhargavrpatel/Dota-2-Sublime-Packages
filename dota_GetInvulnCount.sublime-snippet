@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[GetInvulnCount() ${1:--[[Returns:int
+Get the invulnerability count for a building.
+]]}]]></content>
+	<tabTrigger>GetInvulnCount</tabTrigger>
+	<scope>source.lua</scope>
+	<description>Get the invulnerability count for a building.</description>
+</snippet>

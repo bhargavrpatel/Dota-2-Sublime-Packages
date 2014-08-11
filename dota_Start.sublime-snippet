@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[Start(${1:handle a}) ${2:--[[Returns:void
+Start scene playback, takes activatorEntity as param
+]]}]]></content>
+	<tabTrigger>Start</tabTrigger>
+	<scope>source.lua</scope>
+	<description>Start scene playback, takes activatorEntity as param</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[DoUniqueString(${1:string a}) ${2:--[[Returns:string
+UniqueString:Generate a string guaranteed to be unique across the life of the script VM, with an optional root string. Useful for adding data to table's when not sure what keys are already in use in that table.
+]]}]]></content>
+	<tabTrigger>DoUniqueString</tabTrigger>
+	<scope>source.lua</scope>
+	<description>UniqueString:Generate a string guaranteed to be unique across the life of the script VM, with an optional root string. Useful for adding data to table's when not sure what keys are already in use in that table.</description>
+</snippet>

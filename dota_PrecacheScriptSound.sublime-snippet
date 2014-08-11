@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[PrecacheScriptSound(${1:string a}) ${2:--[[Returns:void
+Precache a sound for later playing.
+]]}]]></content>
+	<tabTrigger>PrecacheScriptSound</tabTrigger>
+	<scope>source.lua</scope>
+	<description>Precache a sound for later playing.</description>
+</snippet>

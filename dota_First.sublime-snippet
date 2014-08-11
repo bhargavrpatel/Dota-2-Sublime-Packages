@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[First() ${1:--[[Returns:handle
+Begin an iteration over the list of entities
+]]}]]></content>
+	<tabTrigger>First</tabTrigger>
+	<scope>source.lua</scope>
+	<description>Begin an iteration over the list of entities</description>
+</snippet>

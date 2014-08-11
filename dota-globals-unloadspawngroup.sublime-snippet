@@ -1,7 +1,0 @@
-<snippet>
-	<content><![CDATA[UnloadSpawnGroup(${1:string a})]]></content>
-	<tabTrigger>UnloadSpawnGroup</tabTrigger>
-	<scope>source.lua</scope>
-	<description>Unload a spawn group by name.</description>
-</snippet>
-

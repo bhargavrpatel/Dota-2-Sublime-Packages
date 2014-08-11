@@ -1,7 +1,0 @@
-<snippet>
-	<content><![CDATA[GetPhysAngularVelocity(${1:handle a})]]></content>
-	<tabTrigger>GetPhysAngularVelocity</tabTrigger>
-	<scope>source.lua</scope>
-	<description>Get Angular Velocity for VPHYS or normal object.</description>
-</snippet>
-

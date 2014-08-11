@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[GetAttackRangeBuffer() ${1:--[[Returns:float
+Gets the attack range buffer.
+]]}]]></content>
+	<tabTrigger>GetAttackRangeBuffer</tabTrigger>
+	<scope>source.lua</scope>
+	<description>Gets the attack range buffer.</description>
+</snippet>

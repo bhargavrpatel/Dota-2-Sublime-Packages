@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[OnAbilityPhaseStart() ${1:--[[Returns:bool
+No Description Set
+]]}]]></content>
+	<tabTrigger>OnAbilityPhaseStart</tabTrigger>
+	<scope>source.lua</scope>
+	<description>No Description Set</description>
+</snippet>

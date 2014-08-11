@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[CreateVisibilityNode(${1:Vector a}, ${2:float b}, ${3:float c}) ${4:--[[Returns:void
+No Description Set
+]]}]]></content>
+	<tabTrigger>CreateVisibilityNode</tabTrigger>
+	<scope>source.lua</scope>
+	<description>No Description Set</description>
+</snippet>

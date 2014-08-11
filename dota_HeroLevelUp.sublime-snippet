@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[HeroLevelUp(${1:bool a}) ${2:--[[Returns:void
+Levels up the hero, true or false to play effects.
+]]}]]></content>
+	<tabTrigger>HeroLevelUp</tabTrigger>
+	<scope>source.lua</scope>
+	<description>Levels up the hero, true or false to play effects.</description>
+</snippet>

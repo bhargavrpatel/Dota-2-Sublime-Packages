@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[GetBool(${1:string variableName}) ${2:--[[Returns:table
+GetBool(name) : returns the convar as a boolean flag.
+]]}]]></content>
+	<tabTrigger>GetBool</tabTrigger>
+	<scope>source.lua</scope>
+	<description>GetBool(name) : returns the convar as a boolean flag.</description>
+</snippet>

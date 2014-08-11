@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[GetBaseVelocity() ${1:--[[Returns:Vector
+Get Base velocity
+]]}]]></content>
+	<tabTrigger>GetBaseVelocity</tabTrigger>
+	<scope>source.lua</scope>
+	<description>Get Base velocity</description>
+</snippet>

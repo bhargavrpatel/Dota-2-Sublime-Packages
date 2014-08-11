@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[SpawnEntityGroupFromTable(${1:handle groupSpawnTables}, ${2:bool bAsync}, ${3:handle hCallback}) ${4:--[[Returns:bool
+Hierarchically spawn an entity group from a set of spawn tables.
+]]}]]></content>
+	<tabTrigger>SpawnEntityGroupFromTable</tabTrigger>
+	<scope>source.lua</scope>
+	<description>Hierarchically spawn an entity group from a set of spawn tables.</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[GetCurrentCharges() ${1:--[[Returns:int
+Get the number of charges this item currently has.
+]]}]]></content>
+	<tabTrigger>GetCurrentCharges</tabTrigger>
+	<scope>source.lua</scope>
+	<description>Get the number of charges this item currently has.</description>
+</snippet>

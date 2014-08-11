@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[FindInSphere(${1:handle startFrom}, ${2:Vector origin}, ${3:float maxRadius}) ${4:--[[Returns:handle
+Find entities within a radius. Pass ''nil'' to start an iteration, or reference to a previously found entity to continue a search
+]]}]]></content>
+	<tabTrigger>FindInSphere</tabTrigger>
+	<scope>source.lua</scope>
+	<description>Find entities within a radius. Pass ''nil'' to start an iteration, or reference to a previously found entity to continue a search</description>
+</snippet>

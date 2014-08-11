@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[GetCursorPosition() ${1:--[[Returns:Vector
+No Description Set
+]]}]]></content>
+	<tabTrigger>GetCursorPosition</tabTrigger>
+	<scope>source.lua</scope>
+	<description>No Description Set</description>
+</snippet>

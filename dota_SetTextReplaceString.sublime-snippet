@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[SetTextReplaceString(${1:string a}) ${2:--[[Returns:void
+Set the text replace ''string'' for this subquest
+]]}]]></content>
+	<tabTrigger>SetTextReplaceString</tabTrigger>
+	<scope>source.lua</scope>
+	<description>Set the text replace ''string'' for this subquest</description>
+</snippet>

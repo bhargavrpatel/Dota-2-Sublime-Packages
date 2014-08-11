@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[SetUseUniversalShopMode(${1:bool enabled}) ${2:--[[Returns:void
+When true, all items are available at as long as any shop is in range, including Secret Shop items
+]]}]]></content>
+	<tabTrigger>SetUseUniversalShopMode</tabTrigger>
+	<scope>source.lua</scope>
+	<description>When true, all items are available at as long as any shop is in range, including Secret Shop items</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[ResetDefeated() ${1:--[[Returns:void
+Restart after killing the ancient, etc.
+]]}]]></content>
+	<tabTrigger>ResetDefeated</tabTrigger>
+	<scope>source.lua</scope>
+	<description>Restart after killing the ancient, etc.</description>
+</snippet>

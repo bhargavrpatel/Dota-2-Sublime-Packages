@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[SetCustomXPRequiredToReachNextLevel(${1:handle a}) ${2:--[[Returns:void
+Allows definition of a ''table'' of hero XP values.
+]]}]]></content>
+	<tabTrigger>SetCustomXPRequiredToReachNextLevel</tabTrigger>
+	<scope>source.lua</scope>
+	<description>Allows definition of a ''table'' of hero XP values.</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[SetSafeToLeave(${1:bool safeToLeave}) ${2:--[[Returns:void
+Mark this game as safe to leave.
+]]}]]></content>
+	<tabTrigger>SetSafeToLeave</tabTrigger>
+	<scope>source.lua</scope>
+	<description>Mark this game as safe to leave.</description>
+</snippet>

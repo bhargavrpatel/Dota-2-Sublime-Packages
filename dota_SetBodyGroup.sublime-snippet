@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[SetBodygroup(${1:int a}, ${2:int b}) ${3:--[[Returns:void
+Sets a bodygroup
+]]}]]></content>
+	<tabTrigger>SetBodygroup</tabTrigger>
+	<scope>source.lua</scope>
+	<description>Sets a bodygroup</description>
+</snippet>

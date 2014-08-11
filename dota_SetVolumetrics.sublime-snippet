@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[SetVolumetrics(${1:bool a}, ${2:float b}, ${3:float c}, ${4:int d}, ${5:float e}) ${6:--[[Returns:void
+Turn on/off light volumetrics: ''bool'' bOn, ''float'' flIntensity, ''float'' flNoise, ''int'' nPlanes, ''float'' flPlaneOffset
+]]}]]></content>
+	<tabTrigger>SetVolumetrics</tabTrigger>
+	<scope>source.lua</scope>
+	<description>Turn on/off light volumetrics: ''bool'' bOn, ''float'' flIntensity, ''float'' flNoise, ''int'' nPlanes, ''float'' flPlaneOffset</description>
+</snippet>

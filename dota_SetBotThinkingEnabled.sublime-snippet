@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[SetBotThinkingEnabled(${1:bool a}) ${2:--[[Returns:void
+Enables/Disables bot thinking. Requires a very Dota PvP-like map with 3 lanes, a shop, etc.
+]]}]]></content>
+	<tabTrigger>SetBotThinkingEnabled</tabTrigger>
+	<scope>source.lua</scope>
+	<description>Enables/Disables bot thinking. Requires a very Dota PvP-like map with 3 lanes, a shop, etc.</description>
+</snippet>

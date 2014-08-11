@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[GetRightVector() ${1:--[[Returns:Vector
+Get the right ''vector'' of the entity
+]]}]]></content>
+	<tabTrigger>GetRightVector</tabTrigger>
+	<scope>source.lua</scope>
+	<description>Get the right ''vector'' of the entity</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[BoundingRadius2D() ${1:--[[Returns:float
+No Description Set
+]]}]]></content>
+	<tabTrigger>BoundingRadius2D</tabTrigger>
+	<scope>source.lua</scope>
+	<description>No Description Set</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[SetDayTimeVisionRange(${1:int a}) ${2:--[[Returns:void
+Set the base vision range.
+]]}]]></content>
+	<tabTrigger>SetDayTimeVisionRange</tabTrigger>
+	<scope>source.lua</scope>
+	<description>Set the base vision range.</description>
+</snippet>

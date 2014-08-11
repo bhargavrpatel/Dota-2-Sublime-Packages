@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[GetCenter() ${1:--[[Returns:Vector
+Get ''vector'' to center of object - absolute coords
+]]}]]></content>
+	<tabTrigger>GetCenter</tabTrigger>
+	<scope>source.lua</scope>
+	<description>Get ''vector'' to center of object - absolute coords</description>
+</snippet>

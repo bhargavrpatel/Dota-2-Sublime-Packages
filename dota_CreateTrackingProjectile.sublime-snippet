@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[CreateTrackingProjectile(${1:handle a}) ${2:--[[Returns:void
+Creates a tracking projectile
+]]}]]></content>
+	<tabTrigger>CreateTrackingProjectile</tabTrigger>
+	<scope>source.lua</scope>
+	<description>Creates a tracking projectile</description>
+</snippet>

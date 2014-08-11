@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[GetMaxOutputDelay(${1:ehandle a}, ${2:string b}) ${3:--[[Returns:float
+Get the longest delay for all events attached to an output
+]]}]]></content>
+	<tabTrigger>GetMaxOutputDelay</tabTrigger>
+	<scope>source.lua</scope>
+	<description>Get the longest delay for all events attached to an output</description>
+</snippet>

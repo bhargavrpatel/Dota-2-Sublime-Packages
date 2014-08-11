@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[Circle(${1:Vector a}, ${2:Quaternion b}, ${3:float c}, ${4:int d}, ${5:int e}, ${6:int f}, ${7:int g}, ${8:bool h}, ${9:float i}) ${10:--[[Returns:void
+Draws a circle. Specify center in world space.
+]]}]]></content>
+	<tabTrigger>Circle</tabTrigger>
+	<scope>source.lua</scope>
+	<description>Draws a circle. Specify center in world space.</description>
+</snippet>

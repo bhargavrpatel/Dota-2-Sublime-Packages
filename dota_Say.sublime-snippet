@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[Say(${1:handle entity}, ${2:string message}, ${3:bool teamOnly}) ${4:--[[Returns:void
+Have Entity say ''string'', and teamOnly or not
+]]}]]></content>
+	<tabTrigger>Say</tabTrigger>
+	<scope>source.lua</scope>
+	<description>Have Entity say ''string'', and teamOnly or not</description>
+</snippet>

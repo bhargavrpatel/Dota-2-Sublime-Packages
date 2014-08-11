@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[GetWorldMaxY() ${1:--[[Returns:float
+Gets the world's maximum Y position.
+]]}]]></content>
+	<tabTrigger>GetWorldMaxY</tabTrigger>
+	<scope>source.lua</scope>
+	<description>Gets the world's maximum Y position.</description>
+</snippet>

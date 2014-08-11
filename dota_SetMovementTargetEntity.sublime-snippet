@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[SetMovementTargetEntity(${1:handle a}, ${2:float b}) ${3:--[[Returns:void
+( hTargetEntity, flTargetRange ) - Try to move this unit to the given range from the target entity.
+]]}]]></content>
+	<tabTrigger>SetMovementTargetEntity</tabTrigger>
+	<scope>source.lua</scope>
+	<description>( hTargetEntity, flTargetRange ) - Try to move this unit to the given range from the target entity.</description>
+</snippet>

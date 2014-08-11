@@ -1,7 +1,0 @@
-<snippet>
-	<content><![CDATA[AppendToLogFile(${1:string a}, ${2:string b})]]></content>
-	<tabTrigger>AppendToLogFile</tabTrigger>
-	<scope>source.lua</scope>
-	<description>Appends a string to a log file on the server.</description>
-</snippet>
-

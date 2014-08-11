@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[SetMaxSpeed(${1:float a}) ${2:--[[Returns:void
+( flMaxSpeed ) - sets unit's max speed
+]]}]]></content>
+	<tabTrigger>SetMaxSpeed</tabTrigger>
+	<scope>source.lua</scope>
+	<description>( flMaxSpeed ) - sets unit's max speed</description>
+</snippet>

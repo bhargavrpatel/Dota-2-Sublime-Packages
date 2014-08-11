@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[__add(${1:Vector a}, ${2:Vector b}) ${3:--[[Returns:Vector
+Overloaded +.  Adds vectors together
+]]}]]></content>
+	<tabTrigger>__add</tabTrigger>
+	<scope>source.lua</scope>
+	<description>Overloaded +.  Adds vectors together</description>
+</snippet>

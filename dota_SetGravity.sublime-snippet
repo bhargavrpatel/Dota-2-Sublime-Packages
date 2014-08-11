@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[SetGravity(${1:float a}) ${2:--[[Returns:void
+Set PLAYER gravity, ignored for objects
+]]}]]></content>
+	<tabTrigger>SetGravity</tabTrigger>
+	<scope>source.lua</scope>
+	<description>Set PLAYER gravity, ignored for objects</description>
+</snippet>

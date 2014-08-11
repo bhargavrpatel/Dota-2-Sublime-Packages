@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[SetAnimation(${1:string a}) ${2:--[[Returns:void
+Pass ''string'' for the animation to play on this model
+]]}]]></content>
+	<tabTrigger>SetAnimation</tabTrigger>
+	<scope>source.lua</scope>
+	<description>Pass ''string'' for the animation to play on this model</description>
+</snippet>

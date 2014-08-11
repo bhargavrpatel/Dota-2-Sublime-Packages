@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[SweptBox(${1:Vector a}, ${2:Vector b}, ${3:Vector c}, ${4:Vector d}, ${5:Quaternion e}, ${6:int f}, ${7:int g}, ${8:int h}, ${9:int i}, ${10:float j}) ${11:--[[Returns:void
+Draws a swept box. Specify endpoint's in world space and the bounds in local space.
+]]}]]></content>
+	<tabTrigger>SweptBox</tabTrigger>
+	<scope>source.lua</scope>
+	<description>Draws a swept box. Specify endpoint's in world space and the bounds in local space.</description>
+</snippet>

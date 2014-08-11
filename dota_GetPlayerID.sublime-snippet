@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[GetPlayerID() ${1:--[[Returns:int
+Returns player ID of the player owning this hero
+]]}]]></content>
+	<tabTrigger>GetPlayerID</tabTrigger>
+	<scope>source.lua</scope>
+	<description>Returns player ID of the player owning this hero</description>
+</snippet>

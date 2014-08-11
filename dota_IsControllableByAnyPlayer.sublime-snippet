@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[IsControllableByAnyPlayer() ${1:--[[Returns:bool
+Is this unit controlled by any non-bot player?
+]]}]]></content>
+	<tabTrigger>IsControllableByAnyPlayer</tabTrigger>
+	<scope>source.lua</scope>
+	<description>Is this unit controlled by any non-bot player?</description>
+</snippet>

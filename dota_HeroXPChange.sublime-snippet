@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[HeroXPChange(${1:float a}) ${2:--[[Returns:bool
+No Description Set
+]]}]]></content>
+	<tabTrigger>HeroXPChange</tabTrigger>
+	<scope>source.lua</scope>
+	<description>No Description Set</description>
+</snippet>

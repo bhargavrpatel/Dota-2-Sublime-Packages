@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[GridPosToWorldCenterY(${1:int a}) ${2:--[[Returns:float
+Get the Y position of the center of a given Y index
+]]}]]></content>
+	<tabTrigger>GridPosToWorldCenterY</tabTrigger>
+	<scope>source.lua</scope>
+	<description>Get the Y position of the center of a given Y index</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[IsTraversable(${1:Vector a}) ${2:--[[Returns:bool
+Checks whether the given position is traversable
+]]}]]></content>
+	<tabTrigger>IsTraversable</tabTrigger>
+	<scope>source.lua</scope>
+	<description>Checks whether the given position is traversable</description>
+</snippet>

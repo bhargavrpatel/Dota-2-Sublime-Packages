@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[GetAbilityTargetType() ${1:--[[Returns:int
+No Description Set
+]]}]]></content>
+	<tabTrigger>GetAbilityTargetType</tabTrigger>
+	<scope>source.lua</scope>
+	<description>No Description Set</description>
+</snippet>

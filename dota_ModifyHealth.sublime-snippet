@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[ModifyHealth(${1:int a}, ${2:handle b}, ${3:bool c}, ${4:int d}) ${5:--[[Returns:void
+Sets the health to a specific value, with optional flags or inflictors.
+]]}]]></content>
+	<tabTrigger>ModifyHealth</tabTrigger>
+	<scope>source.lua</scope>
+	<description>Sets the health to a specific value, with optional flags or inflictors.</description>
+</snippet>

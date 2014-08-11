@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[FindAllByClassname(${1:string a}) ${2:--[[Returns:table
+Finds all entities by class name. Returns an array containing all the found entities.
+]]}]]></content>
+	<tabTrigger>FindAllByClassname</tabTrigger>
+	<scope>source.lua</scope>
+	<description>Finds all entities by class name. Returns an array containing all the found entities.</description>
+</snippet>

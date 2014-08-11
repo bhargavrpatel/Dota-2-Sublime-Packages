@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[SetBaseMagicalResistanceValue(${1:float a}) ${2:--[[Returns:void
+Sets base magical armor value.
+]]}]]></content>
+	<tabTrigger>SetBaseMagicalResistanceValue</tabTrigger>
+	<scope>source.lua</scope>
+	<description>Sets base magical armor value.</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[FindByName(${1:handle lastEnt}, ${2:string searchString}) ${3:--[[Returns:handle
+Find entities by name. Pass ''nil'' to start an iteration, or reference to a previously found entity to continue a search
+]]}]]></content>
+	<tabTrigger>FindByName</tabTrigger>
+	<scope>source.lua</scope>
+	<description>Find entities by name. Pass ''nil'' to start an iteration, or reference to a previously found entity to continue a search</description>
+</snippet>

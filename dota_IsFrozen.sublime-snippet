@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[IsFrozen() ${1:--[[Returns:bool
+No Description Set
+]]}]]></content>
+	<tabTrigger>IsFrozen</tabTrigger>
+	<scope>source.lua</scope>
+	<description>No Description Set</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[FirstMoveChild() ${1:--[[Returns:handle
+No Description Set
+]]}]]></content>
+	<tabTrigger>FirstMoveChild</tabTrigger>
+	<scope>source.lua</scope>
+	<description>No Description Set</description>
+</snippet>

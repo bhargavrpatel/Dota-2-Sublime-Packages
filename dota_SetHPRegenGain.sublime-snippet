@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[SetHPRegenGain(${1:float a}) ${2:--[[Returns:void
+Set the hit point's regen gained per level on this creature.
+]]}]]></content>
+	<tabTrigger>SetHPRegenGain</tabTrigger>
+	<scope>source.lua</scope>
+	<description>Set the hit point's regen gained per level on this creature.</description>
+</snippet>

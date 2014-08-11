@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[MakeRandomHeroSelection() ${1:--[[Returns:void
+Randoms this player's hero.
+]]}]]></content>
+	<tabTrigger>MakeRandomHeroSelection</tabTrigger>
+	<scope>source.lua</scope>
+	<description>Randoms this player's hero.</description>
+</snippet>

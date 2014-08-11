@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[SetPurchaser(${1:handle a}) ${2:--[[Returns:void
+Set the purchaser of record for this item.
+]]}]]></content>
+	<tabTrigger>SetPurchaser</tabTrigger>
+	<scope>source.lua</scope>
+	<description>Set the purchaser of record for this item.</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[SetBuybackEnabled(${1:bool a}) ${2:--[[Returns:void
+Enables or disables buyback completely
+]]}]]></content>
+	<tabTrigger>SetBuybackEnabled</tabTrigger>
+	<scope>source.lua</scope>
+	<description>Enables or disables buyback completely</description>
+</snippet>

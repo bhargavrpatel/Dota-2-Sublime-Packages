@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[SetDisableResistanceGain(${1:float a}) ${2:--[[Returns:void
+Set the disable resistance gained per level on this creature.
+]]}]]></content>
+	<tabTrigger>SetDisableResistanceGain</tabTrigger>
+	<scope>source.lua</scope>
+	<description>Set the disable resistance gained per level on this creature.</description>
+</snippet>

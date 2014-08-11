@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[GetConnectionState(${1:int a}) ${2:--[[Returns:<>
+No Description Set
+]]}]]></content>
+	<tabTrigger>GetConnectionState</tabTrigger>
+	<scope>source.lua</scope>
+	<description>No Description Set</description>
+</snippet>

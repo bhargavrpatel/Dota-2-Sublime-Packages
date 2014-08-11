@@ -1,0 +1,14 @@
+<snippet>
+	<content><![CDATA[ListenToGameEvent(${1:string EventName}, ${2:handle functionNameToCall}, ${3:handle context}) ${4:--[[Returns:int
+
+			Register as a listener for a game event from script.
+			
+		{{tip|In addition to listening for [[Dota 2 Workshop Tools/Scripting/Built-In Engine Events|standard engine events]], you can also create your own events by placing them in /scripts/custom_events.txt.}}
+]]}]]></content>
+	<tabTrigger>ListenToGameEvent</tabTrigger>
+	<scope>source.lua</scope>
+	<description>
+			Register as a listener for a game event from script.
+			
+		{{tip|In addition to listening for [[Dota 2 Workshop Tools/Scripting/Built-In Engine Events|standard engine events]], you can also create your own events by placing them in /scripts/custom_events.txt.}}</description>
+</snippet>

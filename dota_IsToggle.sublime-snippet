@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[IsToggle() ${1:--[[Returns:bool
+No Description Set
+]]}]]></content>
+	<tabTrigger>IsToggle</tabTrigger>
+	<scope>source.lua</scope>
+	<description>No Description Set</description>
+</snippet>

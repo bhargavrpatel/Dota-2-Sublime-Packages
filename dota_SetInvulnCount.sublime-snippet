@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[SetInvulnCount(${1:int a}) ${2:--[[Returns:void
+Set the invulnerability counter of this building.
+]]}]]></content>
+	<tabTrigger>SetInvulnCount</tabTrigger>
+	<scope>source.lua</scope>
+	<description>Set the invulnerability counter of this building.</description>
+</snippet>

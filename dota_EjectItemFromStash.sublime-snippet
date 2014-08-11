@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[EjectItemFromStash(${1:handle a}) ${2:--[[Returns:void
+Drops the selected item out of this unit's stash.
+]]}]]></content>
+	<tabTrigger>EjectItemFromStash</tabTrigger>
+	<scope>source.lua</scope>
+	<description>Drops the selected item out of this unit's stash.</description>
+</snippet>

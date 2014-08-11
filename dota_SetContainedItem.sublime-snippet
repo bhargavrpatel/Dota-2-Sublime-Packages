@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[SetContainedItem(${1:handle a}) ${2:--[[Returns:void
+Set the contained item.
+]]}]]></content>
+	<tabTrigger>SetContainedItem</tabTrigger>
+	<scope>source.lua</scope>
+	<description>Set the contained item.</description>
+</snippet>

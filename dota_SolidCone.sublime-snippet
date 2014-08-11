@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[SolidCone(${1:Vector a}, ${2:Vector b}, ${3:float c}, ${4:float d}, ${5:int e}, ${6:int f}, ${7:int g}, ${8:int h}, ${9:bool i}, ${10:float j}) ${11:--[[Returns:void
+Draws a solid cone. Specify endpoint and direction in world space.
+]]}]]></content>
+	<tabTrigger>SolidCone</tabTrigger>
+	<scope>source.lua</scope>
+	<description>Draws a solid cone. Specify endpoint and direction in world space.</description>
+</snippet>

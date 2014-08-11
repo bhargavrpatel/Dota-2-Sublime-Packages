@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[SetSensingSphereRange(${1:float a}) ${2:--[[Returns:void
+( flSightRange ) - set range of unit's 360 degree sensing sphere
+]]}]]></content>
+	<tabTrigger>SetSensingSphereRange</tabTrigger>
+	<scope>source.lua</scope>
+	<description>( flSightRange ) - set range of unit's 360 degree sensing sphere</description>
+</snippet>

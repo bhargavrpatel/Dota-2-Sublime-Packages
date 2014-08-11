@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[ApplyDataDrivenModifier(${1:handle source}, ${2:handle target}, ${3:string modifier_name}, ${4:handle modifierArgs}) ${5:--[[Returns:void
+No Description Set
+]]}]]></content>
+	<tabTrigger>ApplyDataDrivenModifier</tabTrigger>
+	<scope>source.lua</scope>
+	<description>No Description Set</description>
+</snippet>

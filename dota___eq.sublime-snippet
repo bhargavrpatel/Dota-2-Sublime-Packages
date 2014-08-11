@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[__eq(${1:Vector a}, ${2:Vector b}) ${3:--[[Returns:bool
+Overloaded ==.  Tests for Equality
+]]}]]></content>
+	<tabTrigger>__eq</tabTrigger>
+	<scope>source.lua</scope>
+	<description>Overloaded ==.  Tests for Equality</description>
+</snippet>

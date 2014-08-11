@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[GetWeaponCount() ${1:--[[Returns:int
+GetWeaponCount() : Gets the number of weapons currently equipped
+]]}]]></content>
+	<tabTrigger>GetWeaponCount</tabTrigger>
+	<scope>source.lua</scope>
+	<description>GetWeaponCount() : Gets the number of weapons currently equipped</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[GetCustomBuybackCost(${1:int a}) ${2:--[[Returns:int
+No Description Set
+]]}]]></content>
+	<tabTrigger>GetCustomBuybackCost</tabTrigger>
+	<scope>source.lua</scope>
+	<description>No Description Set</description>
+</snippet>

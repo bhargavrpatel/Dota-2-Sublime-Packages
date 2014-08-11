@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[GetHealthDeficit() ${1:--[[Returns:int
+Returns integer amount of health missing from max.
+]]}]]></content>
+	<tabTrigger>GetHealthDeficit</tabTrigger>
+	<scope>source.lua</scope>
+	<description>Returns integer amount of health missing from max.</description>
+</snippet>

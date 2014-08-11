@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[SetBaseManaRegen(${1:float a}) ${2:--[[Returns:void
+No Description Set
+]]}]]></content>
+	<tabTrigger>SetBaseManaRegen</tabTrigger>
+	<scope>source.lua</scope>
+	<description>No Description Set</description>
+</snippet>

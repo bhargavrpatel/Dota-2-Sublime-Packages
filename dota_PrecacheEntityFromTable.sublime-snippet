@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[PrecacheEntityFromTable(${1:string a}, ${2:handle b}, ${3:handle c}) ${4:--[[Returns:void
+Precache an entity from KeyValues in ''table''
+]]}]]></content>
+	<tabTrigger>PrecacheEntityFromTable</tabTrigger>
+	<scope>source.lua</scope>
+	<description>Precache an entity from KeyValues in ''table''</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[GetBaseMaxHealth() ${1:--[[Returns:float
+Gets the base max health value.
+]]}]]></content>
+	<tabTrigger>GetBaseMaxHealth</tabTrigger>
+	<scope>source.lua</scope>
+	<description>Gets the base max health value.</description>
+</snippet>

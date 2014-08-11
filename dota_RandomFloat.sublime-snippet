@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[RandomFloat(${1:float a}, ${2:float b}) ${3:--[[Returns:float
+Get a random ''float'' within a range
+]]}]]></content>
+	<tabTrigger>RandomFloat</tabTrigger>
+	<scope>source.lua</scope>
+	<description>Get a random ''float'' within a range</description>
+</snippet>

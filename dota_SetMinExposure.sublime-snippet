@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[SetMinExposure(${1:float a}) ${2:--[[Returns:void
+Sets min exposure for this tonemap controller
+]]}]]></content>
+	<tabTrigger>SetMinExposure</tabTrigger>
+	<scope>source.lua</scope>
+	<description>Sets min exposure for this tonemap controller</description>
+</snippet>

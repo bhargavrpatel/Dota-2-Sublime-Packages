@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[Buyback() ${1:--[[Returns:void
+Spend the gold and buyback with this hero.
+]]}]]></content>
+	<tabTrigger>Buyback</tabTrigger>
+	<scope>source.lua</scope>
+	<description>Spend the gold and buyback with this hero.</description>
+</snippet>

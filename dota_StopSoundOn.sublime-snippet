@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[StopSoundOn(${1:string soundName}, ${2:handle playingEntity}) ${3:--[[Returns:void
+Stop named sound on Entity
+]]}]]></content>
+	<tabTrigger>StopSoundOn</tabTrigger>
+	<scope>source.lua</scope>
+	<description>Stop named sound on Entity</description>
+</snippet>

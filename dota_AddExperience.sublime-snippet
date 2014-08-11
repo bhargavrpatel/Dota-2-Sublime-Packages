@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[AddExperience(${1:float amount}, ${2:bool applyBotDifficultyScaling}) ${3:--[[Returns:bool
+Adds experience to this unit.
+]]}]]></content>
+	<tabTrigger>AddExperience</tabTrigger>
+	<scope>source.lua</scope>
+	<description>Adds experience to this unit.</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[SetChanneling(${1:bool a}) ${2:--[[Returns:void
+No Description Set
+]]}]]></content>
+	<tabTrigger>SetChanneling</tabTrigger>
+	<scope>source.lua</scope>
+	<description>No Description Set</description>
+</snippet>

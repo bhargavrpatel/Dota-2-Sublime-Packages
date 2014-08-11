@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[GetSensingSphereRange() ${1:--[[Returns:float
+returns range of unit's 360 degree sensing sphere
+]]}]]></content>
+	<tabTrigger>GetSensingSphereRange</tabTrigger>
+	<scope>source.lua</scope>
+	<description>returns range of unit's 360 degree sensing sphere</description>
+</snippet>

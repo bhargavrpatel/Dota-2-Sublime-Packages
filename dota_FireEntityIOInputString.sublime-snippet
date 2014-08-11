@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[FireEntityIOInputString(${1:ehandle a}, ${2:string b}, ${3:string c}) ${4:--[[Returns:void
+Fire Entity's Action Input with passed String - you own the memory
+]]}]]></content>
+	<tabTrigger>FireEntityIOInputString</tabTrigger>
+	<scope>source.lua</scope>
+	<description>Fire Entity's Action Input with passed String - you own the memory</description>
+</snippet>

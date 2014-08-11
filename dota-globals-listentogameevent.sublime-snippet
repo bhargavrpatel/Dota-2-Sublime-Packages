@@ -1,7 +1,0 @@
-<snippet>
-	<content><![CDATA[ListenToGameEvent(${1:string EventName}, ${2:handle functionNameToCall}, ${3:handle context})]]></content>
-	<tabTrigger>ListenToGameEvent</tabTrigger>
-	<scope>source.lua</scope>
-	<description>Register as a listener for a game event from script.</description>
-</snippet>
-

@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[SetBuybackGoldLimitTime(${1:float a}) ${2:--[[Returns:void
+Set the amount of time gold gain is limited after buying back.
+]]}]]></content>
+	<tabTrigger>SetBuybackGoldLimitTime</tabTrigger>
+	<scope>source.lua</scope>
+	<description>Set the amount of time gold gain is limited after buying back.</description>
+</snippet>

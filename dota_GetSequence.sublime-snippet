@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[GetSequence() ${1:--[[Returns:<>
+Returns the active sequence
+]]}]]></content>
+	<tabTrigger>GetSequence</tabTrigger>
+	<scope>source.lua</scope>
+	<description>Returns the active sequence</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[GetMoveParent() ${1:--[[Returns:handle
+If in hierarchy, retrieves the entity's parent
+]]}]]></content>
+	<tabTrigger>GetMoveParent</tabTrigger>
+	<scope>source.lua</scope>
+	<description>If in hierarchy, retrieves the entity's parent</description>
+</snippet>

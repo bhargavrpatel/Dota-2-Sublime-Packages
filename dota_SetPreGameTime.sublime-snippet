@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[SetPreGameTime(${1:float time}) ${2:--[[Returns:void
+Sets the amount of time players have between picking their hero and game start.
+]]}]]></content>
+	<tabTrigger>SetPreGameTime</tabTrigger>
+	<scope>source.lua</scope>
+	<description>Sets the amount of time players have between picking their hero and game start.</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[DisassembleItem(${1:handle a}) ${2:--[[Returns:void
+Disassemble the passed item in this unit's inventory.
+]]}]]></content>
+	<tabTrigger>DisassembleItem</tabTrigger>
+	<scope>source.lua</scope>
+	<description>Disassemble the passed item in this unit's inventory.</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[PickupDroppedItem(${1:handle a}) ${2:--[[Returns:void
+Pick up a dropped item.
+]]}]]></content>
+	<tabTrigger>PickupDroppedItem</tabTrigger>
+	<scope>source.lua</scope>
+	<description>Pick up a dropped item.</description>
+</snippet>

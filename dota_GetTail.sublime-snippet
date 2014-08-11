@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[GetTail() ${1:--[[Returns:handle
+Is the Nian's tail broken?
+]]}]]></content>
+	<tabTrigger>GetTail</tabTrigger>
+	<scope>source.lua</scope>
+	<description>Is the Nian's tail broken?</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[IsAttachedToParent() ${1:--[[Returns:bool
+Is attached to parent
+]]}]]></content>
+	<tabTrigger>IsAttachedToParent</tabTrigger>
+	<scope>source.lua</scope>
+	<description>Is attached to parent</description>
+</snippet>

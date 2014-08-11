@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[SpeakTrigger() ${1:--[[Returns:bool
+No Description Set
+]]}]]></content>
+	<tabTrigger>SpeakTrigger</tabTrigger>
+	<scope>source.lua</scope>
+	<description>No Description Set</description>
+</snippet>

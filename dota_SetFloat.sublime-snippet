@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[SetFloat(${1:string variableName}, ${2:float value}) ${3:--[[Returns:void
+SetFloat(name, val) : sets the value of the convar to the ''float''.
+]]}]]></content>
+	<tabTrigger>SetFloat</tabTrigger>
+	<scope>source.lua</scope>
+	<description>SetFloat(name, val) : sets the value of the convar to the ''float''.</description>
+</snippet>

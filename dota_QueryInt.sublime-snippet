@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[QueryInt(${1:utlstringtoken a}, ${2:int b}) ${3:--[[Returns:int
+Query ''int'' data for this key
+]]}]]></content>
+	<tabTrigger>QueryInt</tabTrigger>
+	<scope>source.lua</scope>
+	<description>Query ''int'' data for this key</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[AddVelocity(${1:Vector a}, ${2:Vector b}) ${3:--[[Returns:void
+Add linear and angular velocity to the physics object
+]]}]]></content>
+	<tabTrigger>AddVelocity</tabTrigger>
+	<scope>source.lua</scope>
+	<description>Add linear and angular velocity to the physics object</description>
+</snippet>

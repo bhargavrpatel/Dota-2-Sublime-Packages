@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[SplineVectors(${1:Vector a}, ${2:Vector b}, ${3:float c}) ${4:--[[Returns:Vector
+(''vector'',''vector'',''float'') very basic interpolation of v0 to v1 over t on [0,1]
+]]}]]></content>
+	<tabTrigger>SplineVectors</tabTrigger>
+	<scope>source.lua</scope>
+	<description>(''vector'',''vector'',''float'') very basic interpolation of v0 to v1 over t on [0,1]</description>
+</snippet>

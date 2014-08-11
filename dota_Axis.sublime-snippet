@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[Axis(${1:Vector a}, ${2:Quaternion b}, ${3:float c}, ${4:bool d}, ${5:float e}) ${6:--[[Returns:void
+Draws an axis. Specify origin + orientation in world space.
+]]}]]></content>
+	<tabTrigger>Axis</tabTrigger>
+	<scope>source.lua</scope>
+	<description>Draws an axis. Specify origin + orientation in world space.</description>
+</snippet>

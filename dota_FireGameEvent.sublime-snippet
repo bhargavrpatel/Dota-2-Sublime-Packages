@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[FireGameEvent(${1:string eventName}, ${2:handle parameterTable}) ${3:--[[Returns:void
+Fire a pre-defined event, which can be found either in custom_events.txt or in dota's resource/*.res
+]]}]]></content>
+	<tabTrigger>FireGameEvent</tabTrigger>
+	<scope>source.lua</scope>
+	<description>Fire a pre-defined event, which can be found either in custom_events.txt or in dota's resource/*.res</description>
+</snippet>

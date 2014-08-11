@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[SetNianFightStartTime(${1:float a}) ${2:--[[Returns:void
+Sets the start time for the Nian fight
+]]}]]></content>
+	<tabTrigger>SetNianFightStartTime</tabTrigger>
+	<scope>source.lua</scope>
+	<description>Sets the start time for the Nian fight</description>
+</snippet>

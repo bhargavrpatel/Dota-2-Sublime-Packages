@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[GetTeamNumber() ${1:--[[Returns:int
+Get the team number of this unit.
+]]}]]></content>
+	<tabTrigger>GetTeamNumber</tabTrigger>
+	<scope>source.lua</scope>
+	<description>Get the team number of this unit.</description>
+</snippet>

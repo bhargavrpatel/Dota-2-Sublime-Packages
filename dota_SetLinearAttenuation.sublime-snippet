@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[SetLinearAttenuation(${1:float a}) ${2:--[[Returns:void
+Set light linear attenuation value
+]]}]]></content>
+	<tabTrigger>SetLinearAttenuation</tabTrigger>
+	<scope>source.lua</scope>
+	<description>Set light linear attenuation value</description>
+</snippet>

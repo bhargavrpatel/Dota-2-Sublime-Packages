@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[GetControlledRPGUnit() ${1:--[[Returns:handle
+Get the RPG unit this player controls.
+]]}]]></content>
+	<tabTrigger>GetControlledRPGUnit</tabTrigger>
+	<scope>source.lua</scope>
+	<description>Get the RPG unit this player controls.</description>
+</snippet>

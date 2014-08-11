@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[RespawnHero(${1:bool buyback}, ${2:bool unknown1}, ${3:bool unknown2}) ${4:--[[Returns:void
+No Description Set
+]]}]]></content>
+	<tabTrigger>RespawnHero</tabTrigger>
+	<scope>source.lua</scope>
+	<description>No Description Set</description>
+</snippet>

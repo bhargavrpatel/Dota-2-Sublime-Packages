@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[SetGold(${1:int a}, ${2:bool b}) ${3:--[[Returns:void
+Sets the gold amount for the player owning this hero
+]]}]]></content>
+	<tabTrigger>SetGold</tabTrigger>
+	<scope>source.lua</scope>
+	<description>Sets the gold amount for the player owning this hero</description>
+</snippet>

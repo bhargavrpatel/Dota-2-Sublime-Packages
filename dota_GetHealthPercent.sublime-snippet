@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[GetHealthPercent() ${1:--[[Returns:int
+Get the current health percent of the unit.
+]]}]]></content>
+	<tabTrigger>GetHealthPercent</tabTrigger>
+	<scope>source.lua</scope>
+	<description>Get the current health percent of the unit.</description>
+</snippet>

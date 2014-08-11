@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[ForceKill(${1:bool a}) ${2:--[[Returns:void
+Kill this unit immediately.
+]]}]]></content>
+	<tabTrigger>ForceKill</tabTrigger>
+	<scope>source.lua</scope>
+	<description>Kill this unit immediately.</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[GetCurrentScene() ${1:--[[Returns:handle
+Returns the instance of the oldest active scene entity '''(if any).
+]]}]]></content>
+	<tabTrigger>GetCurrentScene</tabTrigger>
+	<scope>source.lua</scope>
+	<description>Returns the instance of the oldest active scene entity '''(if any).</description>
+</snippet>

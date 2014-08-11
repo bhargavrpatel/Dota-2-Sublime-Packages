@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[GrantItem(${1:string a}, ${2:bool b}) ${3:--[[Returns:void
+( sItemName ) - grant an item to the unit by name.
+]]}]]></content>
+	<tabTrigger>GrantItem</tabTrigger>
+	<scope>source.lua</scope>
+	<description>( sItemName ) - grant an item to the unit by name.</description>
+</snippet>

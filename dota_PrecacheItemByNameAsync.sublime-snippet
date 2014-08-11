@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[PrecacheItemByNameAsync(${1:string a}, ${2:handle b}) ${3:--[[Returns:void
+Asynchronously precaches a DOTA item by its dota_npc_items.txt name, provides a callback when it's finished.
+]]}]]></content>
+	<tabTrigger>PrecacheItemByNameAsync</tabTrigger>
+	<scope>source.lua</scope>
+	<description>Asynchronously precaches a DOTA item by its dota_npc_items.txt name, provides a callback when it's finished.</description>
+</snippet>

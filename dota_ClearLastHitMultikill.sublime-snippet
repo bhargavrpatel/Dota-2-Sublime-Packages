@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[ClearLastHitMultikill() ${1:--[[Returns:void
+Value is stored in PlayerResource.
+]]}]]></content>
+	<tabTrigger>ClearLastHitMultikill</tabTrigger>
+	<scope>source.lua</scope>
+	<description>Value is stored in PlayerResource.</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[GetTurnRate() ${1:--[[Returns:float
+returns unit's turn rate in degrees per second
+]]}]]></content>
+	<tabTrigger>GetTurnRate</tabTrigger>
+	<scope>source.lua</scope>
+	<description>returns unit's turn rate in degrees per second</description>
+</snippet>

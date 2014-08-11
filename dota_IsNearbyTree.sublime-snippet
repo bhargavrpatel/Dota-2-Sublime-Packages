@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[IsNearbyTree(${1:Vector position}, ${2:float radius}, ${3:bool a}) ${4:--[[Returns:bool
+ 
+]]}]]></content>
+	<tabTrigger>IsNearbyTree</tabTrigger>
+	<scope>source.lua</scope>
+	<description> </description>
+</snippet>

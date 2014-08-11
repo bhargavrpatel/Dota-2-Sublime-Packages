@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[Box(${1:Vector a}, ${2:Vector b}, ${3:int c}, ${4:int d}, ${5:int e}, ${6:int f}, ${7:bool g}, ${8:float h}) ${9:--[[Returns:void
+Draws a world-space axis-aligned box. Specify bounds in world space.
+]]}]]></content>
+	<tabTrigger>Box</tabTrigger>
+	<scope>source.lua</scope>
+	<description>Draws a world-space axis-aligned box. Specify bounds in world space.</description>
+</snippet>

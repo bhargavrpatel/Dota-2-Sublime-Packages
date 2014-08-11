@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[GetCastPoint(${1:bool a}) ${2:--[[Returns:float
+Parameter: bAttack
+]]}]]></content>
+	<tabTrigger>GetCastPoint</tabTrigger>
+	<scope>source.lua</scope>
+	<description>Parameter: bAttack</description>
+</snippet>

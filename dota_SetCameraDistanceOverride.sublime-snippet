@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[SetCameraDistanceOverride(${1:float a}) ${2:--[[Returns:void
+Set a different camera distance; dota default is 1134.
+]]}]]></content>
+	<tabTrigger>SetCameraDistanceOverride</tabTrigger>
+	<scope>source.lua</scope>
+	<description>Set a different camera distance; dota default is 1134.</description>
+</snippet>

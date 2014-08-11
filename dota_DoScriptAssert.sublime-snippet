@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[DoScriptAssert(${1:bool a}, ${2:string b}) ${3:--[[Returns:void
+ScriptAssert:Asserts the passed in value. Prints out a message and brings up the assert dialog.
+]]}]]></content>
+	<tabTrigger>DoScriptAssert</tabTrigger>
+	<scope>source.lua</scope>
+	<description>ScriptAssert:Asserts the passed in value. Prints out a message and brings up the assert dialog.</description>
+</snippet>

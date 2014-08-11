@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[SetModelScale(${1:float scale}) ${2:--[[Returns:void
+Sets the model's scale to <i>scale</i>, <br/>so if a unit had its model scale at 1, and you use <i>SetModelScale(<b>10.0</b>)</i>, it would set the scale to <b>10.0</b>.
+]]}]]></content>
+	<tabTrigger>SetModelScale</tabTrigger>
+	<scope>source.lua</scope>
+	<description>Sets the model's scale to <i>scale</i>, <br/>so if a unit had its model scale at 1, and you use <i>SetModelScale(<b>10.0</b>)</i>, it would set the scale to <b>10.0</b>.</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[CreateHeroForPlayer(${1:string a}, ${2:handle b}) ${3:--[[Returns:handle
+Creates a DOTA hero by its dota_npc_units.txt name and sets it as the given player's controlled hero
+]]}]]></content>
+	<tabTrigger>CreateHeroForPlayer</tabTrigger>
+	<scope>source.lua</scope>
+	<description>Creates a DOTA hero by its dota_npc_units.txt name and sets it as the given player's controlled hero</description>
+</snippet>

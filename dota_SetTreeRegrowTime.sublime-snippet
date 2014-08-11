@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[SetTreeRegrowTime(${1:float time}) ${2:--[[Returns:void
+Sets the tree regrow time in seconds.
+]]}]]></content>
+	<tabTrigger>SetTreeRegrowTime</tabTrigger>
+	<scope>source.lua</scope>
+	<description>Sets the tree regrow time in seconds.</description>
+</snippet>

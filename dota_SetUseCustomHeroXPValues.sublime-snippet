@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[SetUseCustomHeroXPValues(${1:bool a}) ${2:--[[Returns:void
+Allows heroes in the map to give a specific amount of XP (this value must be set).
+]]}]]></content>
+	<tabTrigger>SetUseCustomHeroXPValues</tabTrigger>
+	<scope>source.lua</scope>
+	<description>Allows heroes in the map to give a specific amount of XP (this value must be set).</description>
+</snippet>

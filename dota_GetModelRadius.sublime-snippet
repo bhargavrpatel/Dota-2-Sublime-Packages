@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[GetModelRadius() ${1:--[[Returns:float
+No Description Set
+]]}]]></content>
+	<tabTrigger>GetModelRadius</tabTrigger>
+	<scope>source.lua</scope>
+	<description>No Description Set</description>
+</snippet>

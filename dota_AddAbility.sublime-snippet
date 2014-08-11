@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[AddAbility(${1:string a}) ${2:--[[Returns:void
+Add an ability to this unit by name.
+]]}]]></content>
+	<tabTrigger>AddAbility</tabTrigger>
+	<scope>source.lua</scope>
+	<description>Add an ability to this unit by name.</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[GetEventPremiumPointsGranted(${1:int a}) ${2:--[[Returns:int
+No Description Set
+]]}]]></content>
+	<tabTrigger>GetEventPremiumPointsGranted</tabTrigger>
+	<scope>source.lua</scope>
+	<description>No Description Set</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[SetOverrideSelectionEntity(${1:handle unit}) ${2:--[[Returns:void
+Set an override for the default selection entity, instead of each player's hero.
+]]}]]></content>
+	<tabTrigger>SetOverrideSelectionEntity</tabTrigger>
+	<scope>source.lua</scope>
+	<description>Set an override for the default selection entity, instead of each player's hero.</description>
+</snippet>

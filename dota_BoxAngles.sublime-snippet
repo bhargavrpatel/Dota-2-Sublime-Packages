@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[BoxAngles(${1:Vector a}, ${2:Vector b}, ${3:Vector c}, ${4:Quaternion d}, ${5:int e}, ${6:int f}, ${7:int g}, ${8:int h}, ${9:bool i}, ${10:float j}) ${11:--[[Returns:void
+Draws an oriented box at the origin. Specify bounds in local space.
+]]}]]></content>
+	<tabTrigger>BoxAngles</tabTrigger>
+	<scope>source.lua</scope>
+	<description>Draws an oriented box at the origin. Specify bounds in local space.</description>
+</snippet>

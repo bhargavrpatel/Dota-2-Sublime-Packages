@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[Normalized() ${1:--[[Returns:Vector
+Returns the vector normalized
+]]}]]></content>
+	<tabTrigger>Normalized</tabTrigger>
+	<scope>source.lua</scope>
+	<description>Returns the vector normalized</description>
+</snippet>

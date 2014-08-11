@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[Capsule(${1:Vector a}, ${2:Quaternion b}, ${3:float c}, ${4:float d}, ${5:int e}, ${6:int f}, ${7:int g}, ${8:int h}, ${9:bool i}, ${10:float j}) ${11:--[[Returns:void
+Draws a capsule. Specify base in world space.
+]]}]]></content>
+	<tabTrigger>Capsule</tabTrigger>
+	<scope>source.lua</scope>
+	<description>Draws a capsule. Specify base in world space.</description>
+</snippet>

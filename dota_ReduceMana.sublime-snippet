@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[ReduceMana(${1:float a}) ${2:--[[Returns:void
+Remove mana from this unit, this can be used for involuntary mana loss, not for mana that is spent.
+]]}]]></content>
+	<tabTrigger>ReduceMana</tabTrigger>
+	<scope>source.lua</scope>
+	<description>Remove mana from this unit, this can be used for involuntary mana loss, not for mana that is spent.</description>
+</snippet>

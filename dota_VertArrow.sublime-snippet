@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[VertArrow(${1:Vector a}, ${2:Vector b}, ${3:float c}, ${4:int d}, ${5:int e}, ${6:int f}, ${7:int g}, ${8:bool h}, ${9:float i}) ${10:--[[Returns:void
+Draws a vertical arrow. Specify endpoint's in world space.
+]]}]]></content>
+	<tabTrigger>VertArrow</tabTrigger>
+	<scope>source.lua</scope>
+	<description>Draws a vertical arrow. Specify endpoint's in world space.</description>
+</snippet>

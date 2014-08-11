@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[SetBaseDamageMin(${1:int a}) ${2:--[[Returns:void
+Sets the minimum base damage.
+]]}]]></content>
+	<tabTrigger>SetBaseDamageMin</tabTrigger>
+	<scope>source.lua</scope>
+	<description>Sets the minimum base damage.</description>
+</snippet>

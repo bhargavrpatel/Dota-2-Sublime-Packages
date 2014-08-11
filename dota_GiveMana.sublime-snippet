@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[GiveMana(${1:float a}) ${2:--[[Returns:void
+Give mana to this unit, this can be used for mana gained by abilities or item usage.
+]]}]]></content>
+	<tabTrigger>GiveMana</tabTrigger>
+	<scope>source.lua</scope>
+	<description>Give mana to this unit, this can be used for mana gained by abilities or item usage.</description>
+</snippet>

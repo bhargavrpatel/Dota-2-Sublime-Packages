@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[IsCosmetic() ${1:--[[Returns:bool
+No Description Set
+]]}]]></content>
+	<tabTrigger>IsCosmetic</tabTrigger>
+	<scope>source.lua</scope>
+	<description>No Description Set</description>
+</snippet>

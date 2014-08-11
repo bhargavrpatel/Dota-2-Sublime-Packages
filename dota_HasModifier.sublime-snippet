@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[HasModifier(${1:string a}) ${2:--[[Returns:bool
+Sees if this unit has a given modifier
+]]}]]></content>
+	<tabTrigger>HasModifier</tabTrigger>
+	<scope>source.lua</scope>
+	<description>Sees if this unit has a given modifier</description>
+</snippet>

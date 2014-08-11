@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[GetFrostyPointsForRound(${1:int a}, ${2:int b}, ${3:int c}) ${4:--[[Returns:int
+No Description Set
+]]}]]></content>
+	<tabTrigger>GetFrostyPointsForRound</tabTrigger>
+	<scope>source.lua</scope>
+	<description>No Description Set</description>
+</snippet>

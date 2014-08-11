@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[IsSummoned() ${1:--[[Returns:bool
+Is this unit summoned?
+]]}]]></content>
+	<tabTrigger>IsSummoned</tabTrigger>
+	<scope>source.lua</scope>
+	<description>Is this unit summoned?</description>
+</snippet>

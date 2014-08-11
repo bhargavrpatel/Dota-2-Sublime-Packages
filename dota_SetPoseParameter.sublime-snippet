@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[SetPoseParameter(${1:string a}, ${2:float b}) ${3:--[[Returns:float
+Set the specified pose parameter to the specified value
+]]}]]></content>
+	<tabTrigger>SetPoseParameter</tabTrigger>
+	<scope>source.lua</scope>
+	<description>Set the specified pose parameter to the specified value</description>
+</snippet>

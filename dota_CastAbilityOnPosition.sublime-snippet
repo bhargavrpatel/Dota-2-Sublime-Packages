@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[CastAbilityOnPosition(${1:Vector a}, ${2:handle b}, ${3:int c}) ${4:--[[Returns:void
+Cast an ability on a position.
+]]}]]></content>
+	<tabTrigger>CastAbilityOnPosition</tabTrigger>
+	<scope>source.lua</scope>
+	<description>Cast an ability on a position.</description>
+</snippet>

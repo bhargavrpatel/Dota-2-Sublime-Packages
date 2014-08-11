@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[GetMaxStamina() ${1:--[[Returns:float
+returns maximum stamina amount.
+]]}]]></content>
+	<tabTrigger>GetMaxStamina</tabTrigger>
+	<scope>source.lua</scope>
+	<description>returns maximum stamina amount.</description>
+</snippet>

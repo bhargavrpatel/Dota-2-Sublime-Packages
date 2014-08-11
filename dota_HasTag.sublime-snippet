@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[HasTag(${1:string a}) ${2:--[[Returns:bool
+Does this volume have the given tag.
+]]}]]></content>
+	<tabTrigger>HasTag</tabTrigger>
+	<scope>source.lua</scope>
+	<description>Does this volume have the given tag.</description>
+</snippet>

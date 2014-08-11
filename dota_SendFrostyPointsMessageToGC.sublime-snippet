@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[SendFrostyPointsMessageToGC(${1:handle a}) ${2:--[[Returns:void
+No Description Set
+]]}]]></content>
+	<tabTrigger>SendFrostyPointsMessageToGC</tabTrigger>
+	<scope>source.lua</scope>
+	<description>No Description Set</description>
+</snippet>

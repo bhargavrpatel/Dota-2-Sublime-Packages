@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[DropItemAtPositionImmediate(${1:handle a}, ${2:Vector b}) ${3:--[[Returns:void
+Immediately drop a carried item at a given position.
+]]}]]></content>
+	<tabTrigger>DropItemAtPositionImmediate</tabTrigger>
+	<scope>source.lua</scope>
+	<description>Immediately drop a carried item at a given position.</description>
+</snippet>

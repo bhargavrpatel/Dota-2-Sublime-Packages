@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[ResetBuybackCostTime(${1:int a}) ${2:--[[Returns:void
+No Description Set
+]]}]]></content>
+	<tabTrigger>ResetBuybackCostTime</tabTrigger>
+	<scope>source.lua</scope>
+	<description>No Description Set</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[UTIL_RemoveImmediate(${1:handle a}) ${2:--[[Returns:void
+Immediately removes the specified entity
+]]}]]></content>
+	<tabTrigger>UTIL_RemoveImmediate</tabTrigger>
+	<scope>source.lua</scope>
+	<description>Immediately removes the specified entity</description>
+</snippet>

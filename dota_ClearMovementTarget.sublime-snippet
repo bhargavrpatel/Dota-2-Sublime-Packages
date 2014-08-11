@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[ClearMovementTarget() ${1:--[[Returns:void
+Clear any movement target entity/position.
+]]}]]></content>
+	<tabTrigger>ClearMovementTarget</tabTrigger>
+	<scope>source.lua</scope>
+	<description>Clear any movement target entity/position.</description>
+</snippet>

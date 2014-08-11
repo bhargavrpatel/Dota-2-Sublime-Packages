@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[VectorToAngles(${1:Vector a}) ${2:--[[Returns:QAngle
+Get Qangles (with no roll) for a ''Vector''.
+]]}]]></content>
+	<tabTrigger>VectorToAngles</tabTrigger>
+	<scope>source.lua</scope>
+	<description>Get Qangles (with no roll) for a ''Vector''.</description>
+</snippet>

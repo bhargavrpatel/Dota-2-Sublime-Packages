@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[SetCustomBuybackCostEnabled(${1:bool a}) ${2:--[[Returns:void
+Turns on capability to define custom buyback costs.
+]]}]]></content>
+	<tabTrigger>SetCustomBuybackCostEnabled</tabTrigger>
+	<scope>source.lua</scope>
+	<description>Turns on capability to define custom buyback costs.</description>
+</snippet>

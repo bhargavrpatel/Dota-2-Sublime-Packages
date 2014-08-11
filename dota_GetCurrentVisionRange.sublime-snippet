@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[GetCurrentVisionRange() ${1:--[[Returns:int
+Gets the current vision range.
+]]}]]></content>
+	<tabTrigger>GetCurrentVisionRange</tabTrigger>
+	<scope>source.lua</scope>
+	<description>Gets the current vision range.</description>
+</snippet>

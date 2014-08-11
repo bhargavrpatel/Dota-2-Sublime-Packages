@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[NextMovePeer() ${1:--[[Returns:handle
+No Description Set
+]]}]]></content>
+	<tabTrigger>NextMovePeer</tabTrigger>
+	<scope>source.lua</scope>
+	<description>No Description Set</description>
+</snippet>

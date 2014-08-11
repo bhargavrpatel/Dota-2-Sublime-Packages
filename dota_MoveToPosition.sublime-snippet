@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[MoveToPosition(${1:Vector a}) ${2:--[[Returns:void
+Issue a Move-To command
+]]}]]></content>
+	<tabTrigger>MoveToPosition</tabTrigger>
+	<scope>source.lua</scope>
+	<description>Issue a Move-To command</description>
+</snippet>

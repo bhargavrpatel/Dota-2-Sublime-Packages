@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[Cross3D(${1:Vector a}, ${2:float b}, ${3:int c}, ${4:int d}, ${5:int e}, ${6:int f}, ${7:bool g}, ${8:float h}) ${9:--[[Returns:void
+Draws a world-aligned cross. Specify origin in world space.
+]]}]]></content>
+	<tabTrigger>Cross3D</tabTrigger>
+	<scope>source.lua</scope>
+	<description>Draws a world-aligned cross. Specify origin in world space.</description>
+</snippet>

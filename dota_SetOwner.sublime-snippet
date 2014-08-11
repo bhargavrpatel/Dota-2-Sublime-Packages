@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[SetOwner(${1:handle owningEntity}) ${2:--[[Returns:void
+Sets this entity's owner
+]]}]]></content>
+	<tabTrigger>SetOwner</tabTrigger>
+	<scope>source.lua</scope>
+	<description>Sets this entity's owner</description>
+</snippet>

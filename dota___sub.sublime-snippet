@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[__sub(${1:Vector a}, ${2:Vector b}) ${3:--[[Returns:Vector
+Overloaded -.  Subtracts vectors
+]]}]]></content>
+	<tabTrigger>__sub</tabTrigger>
+	<scope>source.lua</scope>
+	<description>Overloaded -.  Subtracts vectors</description>
+</snippet>

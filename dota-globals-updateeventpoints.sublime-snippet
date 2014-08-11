@@ -1,7 +1,0 @@
-<snippet>
-	<content><![CDATA[UpdateEventPoints(${1:handle a})]]></content>
-	<tabTrigger>UpdateEventPoints</tabTrigger>
-	<scope>source.lua</scope>
-	<description>No Description Set.</description>
-</snippet>
-

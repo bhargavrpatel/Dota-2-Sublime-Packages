@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[GetParticleReplacement(${1:string a}, ${2:handle b}) ${3:--[[Returns:string
+No Description Set
+]]}]]></content>
+	<tabTrigger>GetParticleReplacement</tabTrigger>
+	<scope>source.lua</scope>
+	<description>No Description Set</description>
+</snippet>

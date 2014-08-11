@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[SetCustomBuybackCooldown(${1:int a}, ${2:float b}) ${3:--[[Returns:void
+Set the buyback cooldown for this player.
+]]}]]></content>
+	<tabTrigger>SetCustomBuybackCooldown</tabTrigger>
+	<scope>source.lua</scope>
+	<description>Set the buyback cooldown for this player.</description>
+</snippet>

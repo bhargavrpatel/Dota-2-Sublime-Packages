@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[StartVote(${1:handle a}) ${2:--[[Returns:void
+Starts a vote, based upon a ''table'' of parameters
+]]}]]></content>
+	<tabTrigger>StartVote</tabTrigger>
+	<scope>source.lua</scope>
+	<description>Starts a vote, based upon a ''table'' of parameters</description>
+</snippet>

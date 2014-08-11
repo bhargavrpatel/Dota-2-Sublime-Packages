@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[HasAbility(${1:string a}) ${2:--[[Returns:bool
+See whether this unit has an ability by name.
+]]}]]></content>
+	<tabTrigger>HasAbility</tabTrigger>
+	<scope>source.lua</scope>
+	<description>See whether this unit has an ability by name.</description>
+</snippet>

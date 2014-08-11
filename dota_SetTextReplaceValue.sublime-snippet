@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[SetTextReplaceValue(${1:int a}, ${2:int b}) ${3:--[[Returns:void
+Set a subquest value
+]]}]]></content>
+	<tabTrigger>SetTextReplaceValue</tabTrigger>
+	<scope>source.lua</scope>
+	<description>Set a subquest value</description>
+</snippet>

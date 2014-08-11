@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[StopListeningToAllGameEvents(${1:handle a}) ${2:--[[Returns:void
+Stop listening to all game events within a specific context.
+]]}]]></content>
+	<tabTrigger>StopListeningToAllGameEvents</tabTrigger>
+	<scope>source.lua</scope>
+	<description>Stop listening to all game events within a specific context.</description>
+</snippet>

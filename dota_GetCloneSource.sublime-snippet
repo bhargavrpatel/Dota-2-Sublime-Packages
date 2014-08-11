@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[GetCloneSource() ${1:--[[Returns:handle
+No Description Set
+]]}]]></content>
+	<tabTrigger>GetCloneSource</tabTrigger>
+	<scope>source.lua</scope>
+	<description>No Description Set</description>
+</snippet>

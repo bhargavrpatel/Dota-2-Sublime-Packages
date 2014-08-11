@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[SpawnEntityAtLocation(${1:Vector a}, ${2:Vector b}) ${3:--[[Returns:void
+Create an entity at a specified location and orientaton, orientation is Euler angle in degrees (pitch, yaw, roll)
+]]}]]></content>
+	<tabTrigger>SpawnEntityAtLocation</tabTrigger>
+	<scope>source.lua</scope>
+	<description>Create an entity at a specified location and orientaton, orientation is Euler angle in degrees (pitch, yaw, roll)</description>
+</snippet>

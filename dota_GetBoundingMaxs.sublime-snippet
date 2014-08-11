@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[GetBoundingMaxs() ${1:--[[Returns:Vector
+Get a ''vector'' containing max bounds, centered on object
+]]}]]></content>
+	<tabTrigger>GetBoundingMaxs</tabTrigger>
+	<scope>source.lua</scope>
+	<description>Get a ''vector'' containing max bounds, centered on object</description>
+</snippet>

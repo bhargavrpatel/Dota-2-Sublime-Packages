@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[GetHero(${1:int heroId}) ${2:--[[Returns:handle
+Get the Nth hero in the Hero List
+]]}]]></content>
+	<tabTrigger>GetHero</tabTrigger>
+	<scope>source.lua</scope>
+	<description>Get the Nth hero in the Hero List</description>
+</snippet>

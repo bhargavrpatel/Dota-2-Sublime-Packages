@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[SetMana(${1:float a}) ${2:--[[Returns:void
+Set the mana on this unit.
+]]}]]></content>
+	<tabTrigger>SetMana</tabTrigger>
+	<scope>source.lua</scope>
+	<description>Set the mana on this unit.</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[SetArmorGain(${1:float a}) ${2:--[[Returns:void
+Set the armor gained per level on this creature.
+]]}]]></content>
+	<tabTrigger>SetArmorGain</tabTrigger>
+	<scope>source.lua</scope>
+	<description>Set the armor gained per level on this creature.</description>
+</snippet>

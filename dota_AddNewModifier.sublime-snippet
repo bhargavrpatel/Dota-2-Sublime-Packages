@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[AddNewModifier(${1:handle caster}, ${2:handle optionalSourceAbility}, ${3:string modifierName}, ${4:handle modifierData}) ${5:--[[Returns:void
+No Description Set
+]]}]]></content>
+	<tabTrigger>AddNewModifier</tabTrigger>
+	<scope>source.lua</scope>
+	<description>No Description Set</description>
+</snippet>

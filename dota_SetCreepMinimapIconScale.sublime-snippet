@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[SetCreepMinimapIconScale(${1:float scale}) ${2:--[[Returns:void
+Scale the creep icons on the minimap.
+]]}]]></content>
+	<tabTrigger>SetCreepMinimapIconScale</tabTrigger>
+	<scope>source.lua</scope>
+	<description>Scale the creep icons on the minimap.</description>
+</snippet>

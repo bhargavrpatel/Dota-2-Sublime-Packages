@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[PassivesDisabled() ${1:--[[Returns:bool
+No Description Set
+]]}]]></content>
+	<tabTrigger>PassivesDisabled</tabTrigger>
+	<scope>source.lua</scope>
+	<description>No Description Set</description>
+</snippet>

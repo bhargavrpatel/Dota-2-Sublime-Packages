@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[EstimateLength() ${1:--[[Returns:float
+Returns length of this scene in seconds.
+]]}]]></content>
+	<tabTrigger>EstimateLength</tabTrigger>
+	<scope>source.lua</scope>
+	<description>Returns length of this scene in seconds.</description>
+</snippet>

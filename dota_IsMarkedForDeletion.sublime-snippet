@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[IsMarkedForDeletion(${1:handle a}) ${2:--[[Returns:bool
+Returns true if the entity is valid and marked for deletion.
+]]}]]></content>
+	<tabTrigger>IsMarkedForDeletion</tabTrigger>
+	<scope>source.lua</scope>
+	<description>Returns true if the entity is valid and marked for deletion.</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[GetOwnerEntity() ${1:--[[Returns:handle
+Get the owner entity, if there is one
+]]}]]></content>
+	<tabTrigger>GetOwnerEntity</tabTrigger>
+	<scope>source.lua</scope>
+	<description>Get the owner entity, if there is one</description>
+</snippet>

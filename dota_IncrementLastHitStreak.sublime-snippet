@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[IncrementLastHitStreak() ${1:--[[Returns:void
+Value is stored in PlayerResource.
+]]}]]></content>
+	<tabTrigger>IncrementLastHitStreak</tabTrigger>
+	<scope>source.lua</scope>
+	<description>Value is stored in PlayerResource.</description>
+</snippet>

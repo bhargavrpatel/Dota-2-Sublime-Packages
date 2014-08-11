@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[SetRuneMinimapIconScale(${1:float scale}) ${2:--[[Returns:void
+Scale the rune icons on the minimap.
+]]}]]></content>
+	<tabTrigger>SetRuneMinimapIconScale</tabTrigger>
+	<scope>source.lua</scope>
+	<description>Scale the rune icons on the minimap.</description>
+</snippet>

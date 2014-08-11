@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[CreateParticleForPlayer(${1:string particleName}, ${2:int particleAttach}, ${3:handle owningEntity}, ${4:handle owningPlayer}) ${5:--[[Returns:int
+Creates a new particle effect that only plays for the specified player
+]]}]]></content>
+	<tabTrigger>CreateParticleForPlayer</tabTrigger>
+	<scope>source.lua</scope>
+	<description>Creates a new particle effect that only plays for the specified player</description>
+</snippet>

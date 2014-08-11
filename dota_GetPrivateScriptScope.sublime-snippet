@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[GetPrivateScriptScope() ${1:--[[Returns:handle
+Retrieve the private per-instance script-side data associated with an entity
+]]}]]></content>
+	<tabTrigger>GetPrivateScriptScope</tabTrigger>
+	<scope>source.lua</scope>
+	<description>Retrieve the private per-instance script-side data associated with an entity</description>
+</snippet>

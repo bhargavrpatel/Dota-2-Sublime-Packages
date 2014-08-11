@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[SetVelocity(${1:Vector velocity}) ${2:--[[Returns:void
+No Description Set
+]]}]]></content>
+	<tabTrigger>SetVelocity</tabTrigger>
+	<scope>source.lua</scope>
+	<description>No Description Set</description>
+</snippet>

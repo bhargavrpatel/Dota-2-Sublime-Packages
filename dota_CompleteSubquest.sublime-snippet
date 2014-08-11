@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[CompleteSubquest() ${1:--[[Returns:void
+Mark this subquest complete
+]]}]]></content>
+	<tabTrigger>CompleteSubquest</tabTrigger>
+	<scope>source.lua</scope>
+	<description>Mark this subquest complete</description>
+</snippet>

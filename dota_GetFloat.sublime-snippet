@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[GetFloat(${1:string name}) ${2:--[[Returns:table
+GetFloat(name) : returns the convar as a ''float''. May return ''nil'' if no such convar.
+]]}]]></content>
+	<tabTrigger>GetFloat</tabTrigger>
+	<scope>source.lua</scope>
+	<description>GetFloat(name) : returns the convar as a ''float''. May return ''nil'' if no such convar.</description>
+</snippet>

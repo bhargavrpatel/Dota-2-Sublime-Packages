@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[GetItemInSlot(${1:int a}) ${2:--[[Returns:handle
+Returns nth item in inventory slot (index is zero based)
+]]}]]></content>
+	<tabTrigger>GetItemInSlot</tabTrigger>
+	<scope>source.lua</scope>
+	<description>Returns nth item in inventory slot (index is zero based)</description>
+</snippet>

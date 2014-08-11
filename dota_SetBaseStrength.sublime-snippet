@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[SetBaseStrength(${1:float a}) ${2:--[[Returns:void
+No Description Set
+]]}]]></content>
+	<tabTrigger>SetBaseStrength</tabTrigger>
+	<scope>source.lua</scope>
+	<description>No Description Set</description>
+</snippet>

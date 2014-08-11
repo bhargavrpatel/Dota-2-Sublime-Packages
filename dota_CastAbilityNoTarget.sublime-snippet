@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[CastAbilityNoTarget(${1:handle ability}, ${2:int playerIndex}) ${3:--[[Returns:void
+Cast an ability with no target. ( hAbility, iPlayerIndex )
+]]}]]></content>
+	<tabTrigger>CastAbilityNoTarget</tabTrigger>
+	<scope>source.lua</scope>
+	<description>Cast an ability with no target. ( hAbility, iPlayerIndex )</description>
+</snippet>

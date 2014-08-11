@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[GetLastHitMultikill(${1:int a}) ${2:--[[Returns:int
+No Description Set
+]]}]]></content>
+	<tabTrigger>GetLastHitMultikill</tabTrigger>
+	<scope>source.lua</scope>
+	<description>No Description Set</description>
+</snippet>

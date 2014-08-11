@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[EntityText(${1:ehandle a}, ${2:int b}, ${3:string c}, ${4:int d}, ${5:int e}, ${6:int f}, ${7:int g}, ${8:float h}) ${9:--[[Returns:void
+Draws text on an entity
+]]}]]></content>
+	<tabTrigger>EntityText</tabTrigger>
+	<scope>source.lua</scope>
+	<description>Draws text on an entity</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[PlayerInstanceFromIndex(${1:int a}) ${2:--[[Returns:handle
+Get a script instance of a player by index.
+]]}]]></content>
+	<tabTrigger>PlayerInstanceFromIndex</tabTrigger>
+	<scope>source.lua</scope>
+	<description>Get a script instance of a player by index.</description>
+</snippet>

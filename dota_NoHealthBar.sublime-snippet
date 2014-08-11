@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[NoHealthBar() ${1:--[[Returns:bool
+No Description Set
+]]}]]></content>
+	<tabTrigger>NoHealthBar</tabTrigger>
+	<scope>source.lua</scope>
+	<description>No Description Set</description>
+</snippet>

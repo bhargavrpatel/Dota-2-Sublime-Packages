@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[Disable() ${1:--[[Returns:void
+Disable the trigger
+]]}]]></content>
+	<tabTrigger>Disable</tabTrigger>
+	<scope>source.lua</scope>
+	<description>Disable the trigger</description>
+</snippet>

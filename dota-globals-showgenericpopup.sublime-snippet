@@ -1,7 +1,0 @@
-<snippet>
-	<content><![CDATA[ShowGenericPopup(${1:string title}, ${2:string content}, ${3:string unknown}, ${4:string unknown}, ${5:int containerType})]]></content>
-	<tabTrigger>ShowGenericPopup</tabTrigger>
-	<scope>source.lua</scope>
-	<description>No Description Set.</description>
-</snippet>
-

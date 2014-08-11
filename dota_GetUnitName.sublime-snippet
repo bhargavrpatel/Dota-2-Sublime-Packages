@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[GetUnitName() ${1:--[[Returns:string
+get the unit name for this unit.
+]]}]]></content>
+	<tabTrigger>GetUnitName</tabTrigger>
+	<scope>source.lua</scope>
+	<description>get the unit name for this unit.</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[CreateTrigger(${1:Vector a}, ${2:Vector b}, ${3:Vector c}) ${4:--[[Returns:handle
+CreateTrigger( vecMin, vecMax ) : Creates and returns an AABB trigger
+]]}]]></content>
+	<tabTrigger>CreateTrigger</tabTrigger>
+	<scope>source.lua</scope>
+	<description>CreateTrigger( vecMin, vecMax ) : Creates and returns an AABB trigger</description>
+</snippet>

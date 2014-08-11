@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[GetDeathGoldCost() ${1:--[[Returns:int
+No Description Set
+]]}]]></content>
+	<tabTrigger>GetDeathGoldCost</tabTrigger>
+	<scope>source.lua</scope>
+	<description>No Description Set</description>
+</snippet>

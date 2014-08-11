@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[GetSoundDuration(${1:string soundName}, ${2:string actormodelname}) ${3:--[[Returns:float
+Returns ''float'' duration of the sound. Takes soundname and optional actormodelname.
+]]}]]></content>
+	<tabTrigger>GetSoundDuration</tabTrigger>
+	<scope>source.lua</scope>
+	<description>Returns ''float'' duration of the sound. Takes soundname and optional actormodelname.</description>
+</snippet>

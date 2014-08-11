@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[QueryFloat(${1:utlstringtoken a}, ${2:float b}) ${3:--[[Returns:float
+Query ''float'' data for this key
+]]}]]></content>
+	<tabTrigger>QueryFloat</tabTrigger>
+	<scope>source.lua</scope>
+	<description>Query ''float'' data for this key</description>
+</snippet>

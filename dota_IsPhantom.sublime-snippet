@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[IsPhantom() ${1:--[[Returns:bool
+Is this a phantom unit?
+]]}]]></content>
+	<tabTrigger>IsPhantom</tabTrigger>
+	<scope>source.lua</scope>
+	<description>Is this a phantom unit?</description>
+</snippet>

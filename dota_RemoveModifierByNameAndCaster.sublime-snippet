@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[RemoveModifierByNameAndCaster(${1:string a}, ${2:handle b}) ${3:--[[Returns:void
+Removes a modifier that was cast by the given caster
+]]}]]></content>
+	<tabTrigger>RemoveModifierByNameAndCaster</tabTrigger>
+	<scope>source.lua</scope>
+	<description>Removes a modifier that was cast by the given caster</description>
+</snippet>

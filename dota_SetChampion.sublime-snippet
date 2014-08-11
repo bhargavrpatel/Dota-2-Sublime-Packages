@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[SetChampion(${1:bool a}) ${2:--[[Returns:void
+Flag this unit as a champion creature.
+]]}]]></content>
+	<tabTrigger>SetChampion</tabTrigger>
+	<scope>source.lua</scope>
+	<description>Flag this unit as a champion creature.</description>
+</snippet>

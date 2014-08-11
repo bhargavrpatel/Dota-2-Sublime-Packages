@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[GetMatchSignoutComplete() ${1:--[[Returns:bool
+Have we received the post match signout message that includes reward information
+]]}]]></content>
+	<tabTrigger>GetMatchSignoutComplete</tabTrigger>
+	<scope>source.lua</scope>
+	<description>Have we received the post match signout message that includes reward information</description>
+</snippet>

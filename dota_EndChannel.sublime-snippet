@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[EndChannel(${1:bool a}) ${2:--[[Returns:void
+Param: ''bool'' bInterrupted
+]]}]]></content>
+	<tabTrigger>EndChannel</tabTrigger>
+	<scope>source.lua</scope>
+	<description>Param: ''bool'' bInterrupted</description>
+</snippet>

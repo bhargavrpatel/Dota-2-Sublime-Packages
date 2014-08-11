@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[SetCurrentCharges(${1:int a}) ${2:--[[Returns:void
+Set the number of charges on this item
+]]}]]></content>
+	<tabTrigger>SetCurrentCharges</tabTrigger>
+	<scope>source.lua</scope>
+	<description>Set the number of charges on this item</description>
+</snippet>

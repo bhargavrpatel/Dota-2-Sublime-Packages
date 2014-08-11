@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[DebugScreenTextPretty(${1:float a}, ${2:float b}, ${3:int c}, ${4:string d}, ${5:int e}, ${6:int f}, ${7:int g}, ${8:int h}, ${9:float i}, ${10:string j}, ${11:int k}, ${12:bool l}) ${13:--[[Returns:void
+Draw pretty debug text (x, y, lineOffset, text, r, g, b, a, duration, font, size, bBold)
+]]}]]></content>
+	<tabTrigger>DebugScreenTextPretty</tabTrigger>
+	<scope>source.lua</scope>
+	<description>Draw pretty debug text (x, y, lineOffset, text, r, g, b, a, duration, font, size, bBold)</description>
+</snippet>

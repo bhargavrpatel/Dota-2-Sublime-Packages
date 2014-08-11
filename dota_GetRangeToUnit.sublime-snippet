@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[GetRangeToUnit(${1:handle a}) ${2:--[[Returns:float
+No Description Set
+]]}]]></content>
+	<tabTrigger>GetRangeToUnit</tabTrigger>
+	<scope>source.lua</scope>
+	<description>No Description Set</description>
+</snippet>

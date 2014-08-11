@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[SendCustomMessage(${1:string message}, ${2:int teamID}, ${3:int unknown(1?)}) ${4:--[[Returns:void
+Displays a line of text in the left textbox (where usually deaths/denies/buysbacks are announced). This function takes restricted HTML as input! (&lt;br&gt;,&lt;u&gt;,&lt;font&gt;)
+]]}]]></content>
+	<tabTrigger>SendCustomMessage</tabTrigger>
+	<scope>source.lua</scope>
+	<description>Displays a line of text in the left textbox (where usually deaths/denies/buysbacks are announced). This function takes restricted HTML as input! (&lt;br&gt;,&lt;u&gt;,&lt;font&gt;)</description>
+</snippet>

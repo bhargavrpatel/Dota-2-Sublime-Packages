@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[SetBloomScale(${1:float a}) ${2:--[[Returns:void
+Sets bloom scale for this tonemap controller
+]]}]]></content>
+	<tabTrigger>SetBloomScale</tabTrigger>
+	<scope>source.lua</scope>
+	<description>Sets bloom scale for this tonemap controller</description>
+</snippet>

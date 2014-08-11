@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[IsIdle() ${1:--[[Returns:bool
+Is this creature currently idle?
+]]}]]></content>
+	<tabTrigger>IsIdle</tabTrigger>
+	<scope>source.lua</scope>
+	<description>Is this creature currently idle?</description>
+</snippet>

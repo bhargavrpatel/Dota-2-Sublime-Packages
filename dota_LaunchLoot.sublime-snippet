@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[LaunchLoot(${1:bool a}, ${2:float b}, ${3:float c}, ${4:Vector d}) ${5:--[[Returns:void
+No Description Set
+]]}]]></content>
+	<tabTrigger>LaunchLoot</tabTrigger>
+	<scope>source.lua</scope>
+	<description>No Description Set</description>
+</snippet>

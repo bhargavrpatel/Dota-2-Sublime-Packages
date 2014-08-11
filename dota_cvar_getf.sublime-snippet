@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[cvar_getf(${1:string a}) ${2:--[[Returns:float
+Gets the value of the given cvar, as a ''float''.
+]]}]]></content>
+	<tabTrigger>cvar_getf</tabTrigger>
+	<scope>source.lua</scope>
+	<description>Gets the value of the given cvar, as a ''float''.</description>
+</snippet>

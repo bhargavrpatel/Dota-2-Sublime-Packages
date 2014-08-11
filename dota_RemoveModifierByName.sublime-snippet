@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[RemoveModifierByName(${1:string a}) ${2:--[[Returns:void
+Removes a modifier
+]]}]]></content>
+	<tabTrigger>RemoveModifierByName</tabTrigger>
+	<scope>source.lua</scope>
+	<description>Removes a modifier</description>
+</snippet>

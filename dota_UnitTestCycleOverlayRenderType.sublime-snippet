@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[UnitTestCycleOverlayRenderType() ${1:--[[Returns:void
+Toggles the overlay render type, for unit tests
+]]}]]></content>
+	<tabTrigger>UnitTestCycleOverlayRenderType</tabTrigger>
+	<scope>source.lua</scope>
+	<description>Toggles the overlay render type, for unit tests</description>
+</snippet>

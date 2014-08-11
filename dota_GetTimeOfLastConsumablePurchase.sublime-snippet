@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[GetTimeOfLastConsumablePurchase(${1:int a}) ${2:--[[Returns:float
+No Description Set
+]]}]]></content>
+	<tabTrigger>GetTimeOfLastConsumablePurchase</tabTrigger>
+	<scope>source.lua</scope>
+	<description>No Description Set</description>
+</snippet>

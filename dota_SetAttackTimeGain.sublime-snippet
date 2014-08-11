@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[SetAttackTimeGain(${1:float a}) ${2:--[[Returns:void
+Set the attack time gained per level on this creature.
+]]}]]></content>
+	<tabTrigger>SetAttackTimeGain</tabTrigger>
+	<scope>source.lua</scope>
+	<description>Set the attack time gained per level on this creature.</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[__mul(${1:Vector a}, ${2:Vector b}) ${3:--[[Returns:Vector
+Overloaded * returns the vectors multiplied together
+]]}]]></content>
+	<tabTrigger>__mul</tabTrigger>
+	<scope>source.lua</scope>
+	<description>Overloaded * returns the vectors multiplied together</description>
+</snippet>

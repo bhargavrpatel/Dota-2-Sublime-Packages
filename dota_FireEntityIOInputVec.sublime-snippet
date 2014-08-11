@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[FireEntityIOInputVec(${1:ehandle a}, ${2:string b}, ${3:Vector c}) ${4:--[[Returns:void
+Fire Entity's Action Input with passed ''Vector'' ( hEntity, szActionName, vector )
+]]}]]></content>
+	<tabTrigger>FireEntityIOInputVec</tabTrigger>
+	<scope>source.lua</scope>
+	<description>Fire Entity's Action Input with passed ''Vector'' ( hEntity, szActionName, vector )</description>
+</snippet>

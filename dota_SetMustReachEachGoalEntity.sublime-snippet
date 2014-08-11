@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[SetMustReachEachGoalEntity(${1:bool a}) ${2:--[[Returns:void
+Set whether this NPC is required to reach each goal entity, rather than being allowed to 'unkink' their path
+]]}]]></content>
+	<tabTrigger>SetMustReachEachGoalEntity</tabTrigger>
+	<scope>source.lua</scope>
+	<description>Set whether this NPC is required to reach each goal entity, rather than being allowed to 'unkink' their path</description>
+</snippet>

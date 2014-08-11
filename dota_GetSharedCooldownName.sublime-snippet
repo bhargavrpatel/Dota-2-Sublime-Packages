@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[GetSharedCooldownName() ${1:--[[Returns:string
+No Description Set
+]]}]]></content>
+	<tabTrigger>GetSharedCooldownName</tabTrigger>
+	<scope>source.lua</scope>
+	<description>No Description Set</description>
+</snippet>

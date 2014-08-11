@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[Time() ${1:--[[Returns:float
+Get the current server time
+]]}]]></content>
+	<tabTrigger>Time</tabTrigger>
+	<scope>source.lua</scope>
+	<description>Get the current server time</description>
+</snippet>

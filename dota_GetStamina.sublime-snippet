@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[GetStamina() ${1:--[[Returns:float
+returns current stamina amount.
+]]}]]></content>
+	<tabTrigger>GetStamina</tabTrigger>
+	<scope>source.lua</scope>
+	<description>returns current stamina amount.</description>
+</snippet>

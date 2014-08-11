@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[GetContext(${1:string a}) ${2:--[[Returns:table
+GetContext( name ): looks up a context and returns it if available. May return ''string'', ''float'', or ''nil'' (if the context isn't found)
+]]}]]></content>
+	<tabTrigger>GetContext</tabTrigger>
+	<scope>source.lua</scope>
+	<description>GetContext( name ): looks up a context and returns it if available. May return ''string'', ''float'', or ''nil'' (if the context isn't found)</description>
+</snippet>

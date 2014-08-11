@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[SetAttackCapability(${1:int a}) ${2:--[[Returns:void
+No Description Set
+]]}]]></content>
+	<tabTrigger>SetAttackCapability</tabTrigger>
+	<scope>source.lua</scope>
+	<description>No Description Set</description>
+</snippet>

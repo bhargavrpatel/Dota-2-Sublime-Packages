@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[SetOriginalModel(${1:string originalModel}) ${2:--[[Returns:void
+Sets the original model of this entity, which it will tend to fall back to anytime its state changes
+]]}]]></content>
+	<tabTrigger>SetOriginalModel</tabTrigger>
+	<scope>source.lua</scope>
+	<description>Sets the original model of this entity, which it will tend to fall back to anytime its state changes</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[AddBroadcastTeamTarget(${1:int a}) ${2:--[[Returns:void
+Adds a team (by index) to the broadcast list
+]]}]]></content>
+	<tabTrigger>AddBroadcastTeamTarget</tabTrigger>
+	<scope>source.lua</scope>
+	<description>Adds a team (by index) to the broadcast list</description>
+</snippet>

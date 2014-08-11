@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[GetAbilityPoints() ${1:--[[Returns:int
+Gets the current unspent ability point's.
+]]}]]></content>
+	<tabTrigger>GetAbilityPoints</tabTrigger>
+	<scope>source.lua</scope>
+	<description>Gets the current unspent ability point's.</description>
+</snippet>

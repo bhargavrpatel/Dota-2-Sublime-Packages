@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[GetValue(${1:string a}) ${2:--[[Returns:table
+Reads a spawn key
+]]}]]></content>
+	<tabTrigger>GetValue</tabTrigger>
+	<scope>source.lua</scope>
+	<description>Reads a spawn key</description>
+</snippet>

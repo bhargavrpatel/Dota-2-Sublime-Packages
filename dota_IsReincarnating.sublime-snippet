@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[IsReincarnating() ${1:--[[Returns:bool
+No Description Set
+]]}]]></content>
+	<tabTrigger>IsReincarnating</tabTrigger>
+	<scope>source.lua</scope>
+	<description>No Description Set</description>
+</snippet>

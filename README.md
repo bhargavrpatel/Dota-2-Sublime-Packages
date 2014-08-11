@@ -9,9 +9,11 @@ C:\Users\USERNAME\AppData\Roaming\Sublime Text 2\Packages\Lua Dota
 ```
 
 ## Progress Report
-Below I have added a list of all classes listed on the Scripting API that are in the current version.
-Keep the date of addition in mind in order stay upto date.
+All functions are added
 
-| Classes finished        | Date of Addition |
-| ------------- |:-------------:|
-| [Globals](https://developer.valvesoftware.com/wiki/Dota_2_Workshop_Tools/Scripting/API#Global)      | Aug 10, 2014 |
+
+## Demo
+[GIF](http://www.gfycat.com/GreedyKlutzyCondor)
+
+## Contributors
+Special thakns to Roy whois Database helped me shave off a lot of scraping.

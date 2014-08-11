@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[Heal(${1:float a}, ${2:handle b}) ${3:--[[Returns:void
+Heal this unit.
+]]}]]></content>
+	<tabTrigger>Heal</tabTrigger>
+	<scope>source.lua</scope>
+	<description>Heal this unit.</description>
+</snippet>

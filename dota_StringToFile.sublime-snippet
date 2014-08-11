@@ -1,0 +1,20 @@
+<snippet>
+	<content><![CDATA[StringToFile(${1:string a}, ${2:string b}) ${3:--[[Returns:bool
+
+			* Directory traversal doesn't seem to work. The characters '.', '/' and '\\' are ignored.
+			* The file name cannot be blank, nor can it consist only of the ignored characters, else the function will do nothing and return false.
+			* Only one string can be stored at a time, the file is overwritten to at every call.
+			* The file ends with a NUL character.
+			* The files are stored at C:\Program Files (x86)\Steam\steamapps\common\dota 2 beta\dota_ugc\game\dota\ems
+		* The function is used in conjunction with [[Dota_2_Workshop_Tools/Scripting/API/Global.FileToString|FileToString]]
+]]}]]></content>
+	<tabTrigger>StringToFile</tabTrigger>
+	<scope>source.lua</scope>
+	<description>
+			* Directory traversal doesn't seem to work. The characters '.', '/' and '\\' are ignored.
+			* The file name cannot be blank, nor can it consist only of the ignored characters, else the function will do nothing and return false.
+			* Only one string can be stored at a time, the file is overwritten to at every call.
+			* The file ends with a NUL character.
+			* The files are stored at C:\Program Files (x86)\Steam\steamapps\common\dota 2 beta\dota_ugc\game\dota\ems
+		* The function is used in conjunction with [[Dota_2_Workshop_Tools/Scripting/API/Global.FileToString|FileToString]]</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[IsOwnersManaEnough() ${1:--[[Returns:bool
+No Description Set
+]]}]]></content>
+	<tabTrigger>IsOwnersManaEnough</tabTrigger>
+	<scope>source.lua</scope>
+	<description>No Description Set</description>
+</snippet>

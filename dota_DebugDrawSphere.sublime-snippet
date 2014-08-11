@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[DebugDrawSphere(${1:Vector a}, ${2:Vector b}, ${3:float c}, ${4:float d}, ${5:bool e}, ${6:float f}) ${7:--[[Returns:void
+Draw a debug sphere (center, vRgb, a, rad, ztest, duration)
+]]}]]></content>
+	<tabTrigger>DebugDrawSphere</tabTrigger>
+	<scope>source.lua</scope>
+	<description>Draw a debug sphere (center, vRgb, a, rad, ztest, duration)</description>
+</snippet>

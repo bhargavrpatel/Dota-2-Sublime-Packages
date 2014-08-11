@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[GetHealthRegen() ${1:--[[Returns:float
+Hero health regen is affected by attributes.
+]]}]]></content>
+	<tabTrigger>GetHealthRegen</tabTrigger>
+	<scope>source.lua</scope>
+	<description>Hero health regen is affected by attributes.</description>
+</snippet>

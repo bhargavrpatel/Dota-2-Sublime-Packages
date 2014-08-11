@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[AddItemDrop(${1:handle a}) ${2:--[[Returns:void
+Add the specified item drop to this creature
+]]}]]></content>
+	<tabTrigger>AddItemDrop</tabTrigger>
+	<scope>source.lua</scope>
+	<description>Add the specified item drop to this creature</description>
+</snippet>

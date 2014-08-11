@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[ShowGenericPopup(${1:string title}, ${2:string content}, ${3:string unknown}, ${4:string unknown}, ${5:int containerType}) ${6:--[[Returns:void
+Shows a generic popup to all users
+]]}]]></content>
+	<tabTrigger>ShowGenericPopup</tabTrigger>
+	<scope>source.lua</scope>
+	<description>Shows a generic popup to all users</description>
+</snippet>

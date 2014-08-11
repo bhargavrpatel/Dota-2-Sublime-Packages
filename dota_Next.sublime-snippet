@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[Next(${1:handle startFrom}) ${2:--[[Returns:handle
+Continue an iteration over the list of entities, providing reference to a previously found entity
+]]}]]></content>
+	<tabTrigger>Next</tabTrigger>
+	<scope>source.lua</scope>
+	<description>Continue an iteration over the list of entities, providing reference to a previously found entity</description>
+</snippet>

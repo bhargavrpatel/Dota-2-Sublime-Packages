@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[RedirectOutput(${1:string a}, ${2:string b}, ${3:handle c}) ${4:--[[Returns:void
+Adds an I/O connection that will call the named function on the passed entity when the specified output fires.
+]]}]]></content>
+	<tabTrigger>RedirectOutput</tabTrigger>
+	<scope>source.lua</scope>
+	<description>Adds an I/O connection that will call the named function on the passed entity when the specified output fires.</description>
+</snippet>

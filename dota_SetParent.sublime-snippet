@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[SetParent(${1:handle a}, ${2:string b}) ${3:--[[Returns:void
+Set the parent for this entity.
+]]}]]></content>
+	<tabTrigger>SetParent</tabTrigger>
+	<scope>source.lua</scope>
+	<description>Set the parent for this entity.</description>
+</snippet>

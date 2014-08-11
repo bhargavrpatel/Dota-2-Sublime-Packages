@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[GetAssignedHero() ${1:--[[Returns:handle
+Get the player's hero.
+]]}]]></content>
+	<tabTrigger>GetAssignedHero</tabTrigger>
+	<scope>source.lua</scope>
+	<description>Get the player's hero.</description>
+</snippet>

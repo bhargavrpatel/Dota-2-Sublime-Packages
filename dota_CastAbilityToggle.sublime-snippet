@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[CastAbilityToggle(${1:handle a}, ${2:int b}) ${3:--[[Returns:void
+Toggle an ability. ( hAbility, iPlayerIndex )
+]]}]]></content>
+	<tabTrigger>CastAbilityToggle</tabTrigger>
+	<scope>source.lua</scope>
+	<description>Toggle an ability. ( hAbility, iPlayerIndex )</description>
+</snippet>

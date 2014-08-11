@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[SpendGold(${1:int a}, ${2:int b}) ${3:--[[Returns:void
+Args: ''int'' nGold, ''int'' nReason
+]]}]]></content>
+	<tabTrigger>SpendGold</tabTrigger>
+	<scope>source.lua</scope>
+	<description>Args: ''int'' nGold, ''int'' nReason</description>
+</snippet>

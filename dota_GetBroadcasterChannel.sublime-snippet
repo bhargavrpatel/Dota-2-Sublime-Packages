@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[GetBroadcasterChannel(${1:int a}) ${2:--[[Returns:<>
+No Description Set
+]]}]]></content>
+	<tabTrigger>GetBroadcasterChannel</tabTrigger>
+	<scope>source.lua</scope>
+	<description>No Description Set</description>
+</snippet>

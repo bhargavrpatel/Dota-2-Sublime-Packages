@@ -1,7 +1,0 @@
-<snippet>
-	<content><![CDATA[StringToFile(${1:string a}, ${2:string b})]]></content>
-	<tabTrigger>StringToFile</tabTrigger>
-	<scope>source.lua</scope>
-	<description>Store a string to a file for later reading.</description>
-</snippet>
-

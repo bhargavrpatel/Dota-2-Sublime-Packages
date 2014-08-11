@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[TriggerModifierDodge() ${1:--[[Returns:bool
+No Description Set
+]]}]]></content>
+	<tabTrigger>TriggerModifierDodge</tabTrigger>
+	<scope>source.lua</scope>
+	<description>No Description Set</description>
+</snippet>

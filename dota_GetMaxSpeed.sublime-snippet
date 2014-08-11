@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[GetMaxSpeed() ${1:--[[Returns:float
+returns unit's max speed
+]]}]]></content>
+	<tabTrigger>GetMaxSpeed</tabTrigger>
+	<scope>source.lua</scope>
+	<description>returns unit's max speed</description>
+</snippet>

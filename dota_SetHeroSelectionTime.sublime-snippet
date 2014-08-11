@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[SetHeroSelectionTime(${1:float time}) ${2:--[[Returns:void
+Sets the amount of time players have to pick their hero.
+]]}]]></content>
+	<tabTrigger>SetHeroSelectionTime</tabTrigger>
+	<scope>source.lua</scope>
+	<description>Sets the amount of time players have to pick their hero.</description>
+</snippet>

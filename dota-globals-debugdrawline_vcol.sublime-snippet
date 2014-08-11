@@ -1,7 +1,0 @@
-<snippet>
-	<content><![CDATA[DebugDrawLine_vCol(${1:Vector a}, ${2:Vector b}, ${3:Vector c}, ${4:bool d}, ${5:float e})]]></content>
-	<tabTrigger>DebugDrawLine_vCol</tabTrigger>
-	<scope>source.lua</scope>
-	<description>Draw a debug line using color vec (start, end, vRgb, a, ztest, duration).</description>
-</snippet>
-

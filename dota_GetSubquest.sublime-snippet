@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[GetSubquest(${1:int a}) ${2:--[[Returns:handle
+Finds a subquest from this quest by index
+]]}]]></content>
+	<tabTrigger>GetSubquest</tabTrigger>
+	<scope>source.lua</scope>
+	<description>Finds a subquest from this quest by index</description>
+</snippet>

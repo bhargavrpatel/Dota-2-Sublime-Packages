@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[SetOpvarFloatAll(${1:string a}, ${2:string b}, ${3:string c}, ${4:float d}) ${5:--[[Returns:void
+Sets an opvar value for all players
+]]}]]></content>
+	<tabTrigger>SetOpvarFloatAll</tabTrigger>
+	<scope>source.lua</scope>
+	<description>Sets an opvar value for all players</description>
+</snippet>

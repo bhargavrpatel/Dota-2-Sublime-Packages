@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[IsAlive() ${1:--[[Returns:bool
+Is this unit alive?
+]]}]]></content>
+	<tabTrigger>IsAlive</tabTrigger>
+	<scope>source.lua</scope>
+	<description>Is this unit alive?</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[Cross(${1:Vector a}, ${2:Vector b}) ${3:--[[Returns:Vector
+Cross product of two vectors
+]]}]]></content>
+	<tabTrigger>Cross</tabTrigger>
+	<scope>source.lua</scope>
+	<description>Cross product of two vectors</description>
+</snippet>

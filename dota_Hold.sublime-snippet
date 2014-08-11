@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[Hold() ${1:--[[Returns:void
+Hold position.
+]]}]]></content>
+	<tabTrigger>Hold</tabTrigger>
+	<scope>source.lua</scope>
+	<description>Hold position.</description>
+</snippet>

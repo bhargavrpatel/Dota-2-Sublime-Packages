@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[GetStatsBasedManaRegen() ${1:--[[Returns:float
+Returns only the regen based on Intelligence.
+]]}]]></content>
+	<tabTrigger>GetStatsBasedManaRegen</tabTrigger>
+	<scope>source.lua</scope>
+	<description>Returns only the regen based on Intelligence.</description>
+</snippet>

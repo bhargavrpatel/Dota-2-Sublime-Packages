@@ -1,7 +1,0 @@
-<snippet>
-	<content><![CDATA[Msg(${1:string a})]]></content>
-	<tabTrigger>Msg</tabTrigger>
-	<scope>source.lua</scope>
-	<description>Print a message.</description>
-</snippet>
-

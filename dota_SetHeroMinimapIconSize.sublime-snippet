@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[SetHeroMinimapIconSize(${1:int iconSize}) ${2:--[[Returns:void
+(nMinimapHeroIconSize) - Set the hero minimap icon size.
+]]}]]></content>
+	<tabTrigger>SetHeroMinimapIconSize</tabTrigger>
+	<scope>source.lua</scope>
+	<description>(nMinimapHeroIconSize) - Set the hero minimap icon size.</description>
+</snippet>

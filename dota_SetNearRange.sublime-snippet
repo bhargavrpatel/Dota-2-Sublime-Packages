@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[SetNearRange(${1:float a}) ${2:--[[Returns:void
+Set light minimum range
+]]}]]></content>
+	<tabTrigger>SetNearRange</tabTrigger>
+	<scope>source.lua</scope>
+	<description>Set light minimum range</description>
+</snippet>

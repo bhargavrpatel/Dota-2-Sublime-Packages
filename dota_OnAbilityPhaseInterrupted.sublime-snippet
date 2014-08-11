@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[OnAbilityPhaseInterrupted() ${1:--[[Returns:void
+No Description Set
+]]}]]></content>
+	<tabTrigger>OnAbilityPhaseInterrupted</tabTrigger>
+	<scope>source.lua</scope>
+	<description>No Description Set</description>
+</snippet>

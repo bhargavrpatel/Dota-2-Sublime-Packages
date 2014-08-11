@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[QueryString(${1:utlstringtoken a}, ${2:string b}) ${3:--[[Returns:string
+Query ''string'' data for this key
+]]}]]></content>
+	<tabTrigger>QueryString</tabTrigger>
+	<scope>source.lua</scope>
+	<description>Query ''string'' data for this key</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[GetIncreasedAttackSpeed() ${1:--[[Returns:float
+Hero attack speed is also affected by agility.
+]]}]]></content>
+	<tabTrigger>GetIncreasedAttackSpeed</tabTrigger>
+	<scope>source.lua</scope>
+	<description>Hero attack speed is also affected by agility.</description>
+</snippet>

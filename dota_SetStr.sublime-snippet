@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[SetStr(${1:string a}, ${2:string b}) ${3:--[[Returns:void
+SetStr(name, val) : sets the value of the convar to the ''string''.
+]]}]]></content>
+	<tabTrigger>SetStr</tabTrigger>
+	<scope>source.lua</scope>
+	<description>SetStr(name, val) : sets the value of the convar to the ''string''.</description>
+</snippet>

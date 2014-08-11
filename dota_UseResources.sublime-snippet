@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[UseResources(${1:bool a}, ${2:bool b}, ${3:bool c}) ${4:--[[Returns:void
+No Description Set
+]]}]]></content>
+	<tabTrigger>UseResources</tabTrigger>
+	<scope>source.lua</scope>
+	<description>No Description Set</description>
+</snippet>

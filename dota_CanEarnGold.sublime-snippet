@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[CanEarnGold() ${1:--[[Returns:bool
+Returns boolean value result of buyback gold limit time less than game time.
+]]}]]></content>
+	<tabTrigger>CanEarnGold</tabTrigger>
+	<scope>source.lua</scope>
+	<description>Returns boolean value result of buyback gold limit time less than game time.</description>
+</snippet>

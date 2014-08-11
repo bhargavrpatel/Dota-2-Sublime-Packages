@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[DoEntFire(${1:string a}, ${2:string b}, ${3:string c}, ${4:float d}, ${5:handle e}, ${6:handle f}) ${7:--[[Returns:void
+EntFire: Generate an entity i/o event ( szTarget, szAction, szValue, flDelay, hActivator, hCaller )
+]]}]]></content>
+	<tabTrigger>DoEntFire</tabTrigger>
+	<scope>source.lua</scope>
+	<description>EntFire: Generate an entity i/o event ( szTarget, szAction, szValue, flDelay, hActivator, hCaller )</description>
+</snippet>

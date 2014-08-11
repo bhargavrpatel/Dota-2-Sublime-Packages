@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[SetMaxExposure(${1:float a}) ${2:--[[Returns:void
+Sets max exposure for this tonemap controller
+]]}]]></content>
+	<tabTrigger>SetMaxExposure</tabTrigger>
+	<scope>source.lua</scope>
+	<description>Sets max exposure for this tonemap controller</description>
+</snippet>

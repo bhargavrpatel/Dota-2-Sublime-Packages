@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[SetAbilityPoints(${1:int a}) ${2:--[[Returns:void
+Sets the current unspent ability point's.
+]]}]]></content>
+	<tabTrigger>SetAbilityPoints</tabTrigger>
+	<scope>source.lua</scope>
+	<description>Sets the current unspent ability point's.</description>
+</snippet>

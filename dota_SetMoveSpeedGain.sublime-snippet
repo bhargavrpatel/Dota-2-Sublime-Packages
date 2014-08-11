@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[SetMoveSpeedGain(${1:int a}) ${2:--[[Returns:void
+Set the move speed gained per level on this creature.
+]]}]]></content>
+	<tabTrigger>SetMoveSpeedGain</tabTrigger>
+	<scope>source.lua</scope>
+	<description>Set the move speed gained per level on this creature.</description>
+</snippet>

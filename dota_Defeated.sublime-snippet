@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[Defeated() ${1:--[[Returns:void
+Kills the ancient, etc.
+]]}]]></content>
+	<tabTrigger>Defeated</tabTrigger>
+	<scope>source.lua</scope>
+	<description>Kills the ancient, etc.</description>
+</snippet>

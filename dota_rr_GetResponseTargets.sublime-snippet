@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[rr_GetResponseTargets() ${1:--[[Returns:handle
+Retrieve a ''table'' of all available expresser targets, in the form { name : ''handle'', name: ''handle'' }.
+]]}]]></content>
+	<tabTrigger>rr_GetResponseTargets</tabTrigger>
+	<scope>source.lua</scope>
+	<description>Retrieve a ''table'' of all available expresser targets, in the form { name : ''handle'', name: ''handle'' }.</description>
+</snippet>

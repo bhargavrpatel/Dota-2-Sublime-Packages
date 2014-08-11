@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[GetAngles() ${1:--[[Returns:QAngle
+No Description Set
+]]}]]></content>
+	<tabTrigger>GetAngles</tabTrigger>
+	<scope>source.lua</scope>
+	<description>No Description Set</description>
+</snippet>

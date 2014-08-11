@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[rr_QueryBestResponse(${1:handle a}, ${2:handle b}, ${3:handle c}) ${4:--[[Returns:bool
+Params: ( hEnt, hQuery, hResult ) // Static : tests 'query' against entity's response system and returns the best response found (or ''nil'' if none found).
+]]}]]></content>
+	<tabTrigger>rr_QueryBestResponse</tabTrigger>
+	<scope>source.lua</scope>
+	<description>Params: ( hEnt, hQuery, hResult ) // Static : tests 'query' against entity's response system and returns the best response found (or ''nil'' if none found).</description>
+</snippet>

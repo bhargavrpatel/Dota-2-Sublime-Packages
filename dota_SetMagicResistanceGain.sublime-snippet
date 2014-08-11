@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[SetMagicResistanceGain(${1:float a}) ${2:--[[Returns:void
+Set the magic resistance gained per level on this creature.
+]]}]]></content>
+	<tabTrigger>SetMagicResistanceGain</tabTrigger>
+	<scope>source.lua</scope>
+	<description>Set the magic resistance gained per level on this creature.</description>
+</snippet>

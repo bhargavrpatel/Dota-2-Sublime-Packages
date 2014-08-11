@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[SetGameWinner(${1:int team}) ${2:--[[Returns:void
+Makes ths specified team win
+]]}]]></content>
+	<tabTrigger>SetGameWinner</tabTrigger>
+	<scope>source.lua</scope>
+	<description>Makes ths specified team win</description>
+</snippet>

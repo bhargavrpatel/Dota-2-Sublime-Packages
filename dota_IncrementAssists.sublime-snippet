@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[IncrementAssists() ${1:--[[Returns:void
+Value is stored in PlayerResource.
+]]}]]></content>
+	<tabTrigger>IncrementAssists</tabTrigger>
+	<scope>source.lua</scope>
+	<description>Value is stored in PlayerResource.</description>
+</snippet>

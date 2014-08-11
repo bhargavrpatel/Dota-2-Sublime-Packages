@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[CreateTriggerRadiusApproximate(${1:Vector a}, ${2:float b}) ${3:--[[Returns:handle
+CreateTriggerRadiusApproximate( vecOrigin, flRadius ) : Creates and returns an AABB trigger thats bigger than the radius provided
+]]}]]></content>
+	<tabTrigger>CreateTriggerRadiusApproximate</tabTrigger>
+	<scope>source.lua</scope>
+	<description>CreateTriggerRadiusApproximate( vecOrigin, flRadius ) : Creates and returns an AABB trigger thats bigger than the radius provided</description>
+</snippet>

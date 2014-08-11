@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[Interrupt() ${1:--[[Returns:void
+No Description Set
+]]}]]></content>
+	<tabTrigger>Interrupt</tabTrigger>
+	<scope>source.lua</scope>
+	<description>No Description Set</description>
+</snippet>

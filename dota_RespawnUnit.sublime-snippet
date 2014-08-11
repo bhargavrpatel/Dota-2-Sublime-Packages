@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[RespawnUnit() ${1:--[[Returns:void
+Respawns the target unit if it can be respawned.
+]]}]]></content>
+	<tabTrigger>RespawnUnit</tabTrigger>
+	<scope>source.lua</scope>
+	<description>Respawns the target unit if it can be respawned.</description>
+</snippet>

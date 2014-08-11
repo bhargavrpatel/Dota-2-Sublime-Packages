@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[Sphere(${1:Vector a}, ${2:float b}, ${3:int c}, ${4:int d}, ${5:int e}, ${6:int f}, ${7:bool g}, ${8:float h}) ${9:--[[Returns:void
+Draws a wireframe sphere. Specify center in world space.
+]]}]]></content>
+	<tabTrigger>Sphere</tabTrigger>
+	<scope>source.lua</scope>
+	<description>Draws a wireframe sphere. Specify center in world space.</description>
+</snippet>

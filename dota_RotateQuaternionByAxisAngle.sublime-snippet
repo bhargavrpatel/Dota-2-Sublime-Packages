@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[RotateQuaternionByAxisAngle(${1:Quaternion a}, ${2:Vector b}, ${3:float c}) ${4:--[[Returns:Quaternion
+Rotates a quaternion by the specified angle around the specified ''vector'' axis
+]]}]]></content>
+	<tabTrigger>RotateQuaternionByAxisAngle</tabTrigger>
+	<scope>source.lua</scope>
+	<description>Rotates a quaternion by the specified angle around the specified ''vector'' axis</description>
+</snippet>

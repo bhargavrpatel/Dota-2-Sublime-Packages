@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[Enable() ${1:--[[Returns:void
+Enable the trigger
+]]}]]></content>
+	<tabTrigger>Enable</tabTrigger>
+	<scope>source.lua</scope>
+	<description>Enable the trigger</description>
+</snippet>

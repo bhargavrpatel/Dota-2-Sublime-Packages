@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[WhoSelectedHero(${1:string a}) ${2:--[[Returns:int
+No Description Set
+]]}]]></content>
+	<tabTrigger>WhoSelectedHero</tabTrigger>
+	<scope>source.lua</scope>
+	<description>No Description Set</description>
+</snippet>

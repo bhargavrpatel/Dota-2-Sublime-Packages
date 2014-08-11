@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[RegrowAllTrees() ${1:--[[Returns:void
+ 
+]]}]]></content>
+	<tabTrigger>RegrowAllTrees</tabTrigger>
+	<scope>source.lua</scope>
+	<description> </description>
+</snippet>

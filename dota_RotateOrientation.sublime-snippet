@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[RotateOrientation(${1:QAngle a}, ${2:QAngle b}) ${3:--[[Returns:QAngle
+Rotate a ''QAngle'' by another ''QAngle''.
+]]}]]></content>
+	<tabTrigger>RotateOrientation</tabTrigger>
+	<scope>source.lua</scope>
+	<description>Rotate a ''QAngle'' by another ''QAngle''.</description>
+</snippet>

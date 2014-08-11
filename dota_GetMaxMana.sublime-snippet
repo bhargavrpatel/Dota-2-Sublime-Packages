@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[GetMaxMana() ${1:--[[Returns:float
+Get the maximum mana of this unit.
+]]}]]></content>
+	<tabTrigger>GetMaxMana</tabTrigger>
+	<scope>source.lua</scope>
+	<description>Get the maximum mana of this unit.</description>
+</snippet>

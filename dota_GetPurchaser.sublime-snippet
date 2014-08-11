@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[GetPurchaser() ${1:--[[Returns:handle
+Get the purchaser for this item.
+]]}]]></content>
+	<tabTrigger>GetPurchaser</tabTrigger>
+	<scope>source.lua</scope>
+	<description>Get the purchaser for this item.</description>
+</snippet>

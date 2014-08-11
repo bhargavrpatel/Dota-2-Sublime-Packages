@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[EndCooldown() ${1:--[[Returns:void
+Clear the cooldown remaining on this ability.
+]]}]]></content>
+	<tabTrigger>EndCooldown</tabTrigger>
+	<scope>source.lua</scope>
+	<description>Clear the cooldown remaining on this ability.</description>
+</snippet>

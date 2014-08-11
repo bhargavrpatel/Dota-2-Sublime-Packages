@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[GetNianTotalDamageTaken() ${1:--[[Returns:int
+For New Bloom, get total damage taken by the Nian / Year Beast
+]]}]]></content>
+	<tabTrigger>GetNianTotalDamageTaken</tabTrigger>
+	<scope>source.lua</scope>
+	<description>For New Bloom, get total damage taken by the Nian / Year Beast</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[GetAbilityDamage() ${1:--[[Returns:int
+No Description Set
+]]}]]></content>
+	<tabTrigger>GetAbilityDamage</tabTrigger>
+	<scope>source.lua</scope>
+	<description>No Description Set</description>
+</snippet>

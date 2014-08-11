@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[SetForwardVector(${1:Vector forwardVec}) ${2:--[[Returns:void
+Set the orientation of the entity to have this forward ''forwardVec''
+]]}]]></content>
+	<tabTrigger>SetForwardVector</tabTrigger>
+	<scope>source.lua</scope>
+	<description>Set the orientation of the entity to have this forward ''forwardVec''</description>
+</snippet>

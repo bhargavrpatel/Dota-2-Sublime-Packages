@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[SetSightConeAngle(${1:float a}) ${2:--[[Returns:void
+( flAngleDegrees ) - sets angle in which the unit can see things up to sight range
+]]}]]></content>
+	<tabTrigger>SetSightConeAngle</tabTrigger>
+	<scope>source.lua</scope>
+	<description>( flAngleDegrees ) - sets angle in which the unit can see things up to sight range</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[GetTowerKills(${1:int a}) ${2:--[[Returns:int
+No Description Set
+]]}]]></content>
+	<tabTrigger>GetTowerKills</tabTrigger>
+	<scope>source.lua</scope>
+	<description>No Description Set</description>
+</snippet>

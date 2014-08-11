@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[SetBlocking(${1:bool a}) ${2:--[[Returns:void
+( bShouldBlock ) - Set the blocking state of this unit.
+]]}]]></content>
+	<tabTrigger>SetBlocking</tabTrigger>
+	<scope>source.lua</scope>
+	<description>( bShouldBlock ) - Set the blocking state of this unit.</description>
+</snippet>

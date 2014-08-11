@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[GetBuybackCooldownTime() ${1:--[[Returns:float
+Return ''float'' value for the amount of time left on cooldown for this hero's buyback.
+]]}]]></content>
+	<tabTrigger>GetBuybackCooldownTime</tabTrigger>
+	<scope>source.lua</scope>
+	<description>Return ''float'' value for the amount of time left on cooldown for this hero's buyback.</description>
+</snippet>

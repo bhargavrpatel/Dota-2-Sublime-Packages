@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[ToggleAutoCast() ${1:--[[Returns:void
+No Description Set
+]]}]]></content>
+	<tabTrigger>ToggleAutoCast</tabTrigger>
+	<scope>source.lua</scope>
+	<description>No Description Set</description>
+</snippet>

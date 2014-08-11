@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[SetGoldTickTime(${1:float a}) ${2:--[[Returns:void
+Set the time ''int''erval between auto gold increases.
+]]}]]></content>
+	<tabTrigger>SetGoldTickTime</tabTrigger>
+	<scope>source.lua</scope>
+	<description>Set the time ''int''erval between auto gold increases.</description>
+</snippet>

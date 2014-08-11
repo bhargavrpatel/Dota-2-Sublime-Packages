@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[HasRoomForItem(${1:string a}, ${2:bool b}, ${3:bool c}) ${4:--[[Returns:int
+Args: const char* pItemName, ''bool'' bIncludeStashCombines, ''bool'' bAllowSelling
+]]}]]></content>
+	<tabTrigger>HasRoomForItem</tabTrigger>
+	<scope>source.lua</scope>
+	<description>Args: const char* pItemName, ''bool'' bIncludeStashCombines, ''bool'' bAllowSelling</description>
+</snippet>

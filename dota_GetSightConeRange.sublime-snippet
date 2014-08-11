@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[GetSightConeRange() ${1:--[[Returns:float
+returns range of unit's sight cone
+]]}]]></content>
+	<tabTrigger>GetSightConeRange</tabTrigger>
+	<scope>source.lua</scope>
+	<description>returns range of unit's sight cone</description>
+</snippet>

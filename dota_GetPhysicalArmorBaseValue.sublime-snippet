@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[GetPhysicalArmorBaseValue() ${1:--[[Returns:float
+Returns base physical armor value.
+]]}]]></content>
+	<tabTrigger>GetPhysicalArmorBaseValue</tabTrigger>
+	<scope>source.lua</scope>
+	<description>Returns base physical armor value.</description>
+</snippet>

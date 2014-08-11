@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[RotatePosition(${1:Vector a}, ${2:QAngle b}, ${3:Vector c}) ${4:--[[Returns:Vector
+Rotate a ''Vector'' around a point.
+]]}]]></content>
+	<tabTrigger>RotatePosition</tabTrigger>
+	<scope>source.lua</scope>
+	<description>Rotate a ''Vector'' around a point.</description>
+</snippet>

@@ -1,7 +1,0 @@
-<snippet>
-	<content><![CDATA[ApplyDamage(${1:handle DamageTable})]]></content>
-	<tabTrigger>ApplyDamage</tabTrigger>
-	<scope>source.lua</scope>
-	<description>Pass table - Inputs: victim, attacker, damage, damage_type, damage_flags, abilityReturn damage done.</description>
-</snippet>
-

@@ -1,7 +1,0 @@
-<snippet>
-	<content><![CDATA[PrintLinkedConsoleMessage(${1:string a}, ${2:string b})]]></content>
-	<tabTrigger>PrintLinkedConsoleMessage</tabTrigger>
-	<scope>source.lua</scope>
-	<description>Print a console message with a linked console command.</description>
-</snippet>
-

@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[InterruptMotionControllers(${1:bool a}) ${2:--[[Returns:void
+Parameter boolean determines finding clear space.
+]]}]]></content>
+	<tabTrigger>InterruptMotionControllers</tabTrigger>
+	<scope>source.lua</scope>
+	<description>Parameter boolean determines finding clear space.</description>
+</snippet>

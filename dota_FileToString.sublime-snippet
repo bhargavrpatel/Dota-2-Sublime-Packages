@@ -1,0 +1,20 @@
+<snippet>
+	<content><![CDATA[FileToString(${1:string a}) ${2:--[[Returns:string
+
+			Reads a string from a file to send to script
+			
+			* Directory traversal doesn't seem to work. The characters '.', '/' and '\\' are ignored.
+			* The files are read from C:\Program Files (x86)\Steam\steamapps\common\dota 2 beta\dota_ugc\game\dota\ems
+			* The function is used in conjunction with [[Dota_2_Workshop_Tools/Scripting/API/Global.StringToFile|StringToFile]]
+		
+]]}]]></content>
+	<tabTrigger>FileToString</tabTrigger>
+	<scope>source.lua</scope>
+	<description>
+			Reads a string from a file to send to script
+			
+			* Directory traversal doesn't seem to work. The characters '.', '/' and '\\' are ignored.
+			* The files are read from C:\Program Files (x86)\Steam\steamapps\common\dota 2 beta\dota_ugc\game\dota\ems
+			* The function is used in conjunction with [[Dota_2_Workshop_Tools/Scripting/API/Global.StringToFile|StringToFile]]
+		</description>
+</snippet>

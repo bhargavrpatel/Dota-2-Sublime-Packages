@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[SetGoldPerTick(${1:int a}) ${2:--[[Returns:void
+Set the auto gold increase per timed interval.
+]]}]]></content>
+	<tabTrigger>SetGoldPerTick</tabTrigger>
+	<scope>source.lua</scope>
+	<description>Set the auto gold increase per timed interval.</description>
+</snippet>

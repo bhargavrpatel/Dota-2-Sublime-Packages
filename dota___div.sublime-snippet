@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[__div(${1:Vector a}, ${2:Vector b}) ${3:--[[Returns:Vector
+Overloaded /.  Divides vectors
+]]}]]></content>
+	<tabTrigger>__div</tabTrigger>
+	<scope>source.lua</scope>
+	<description>Overloaded /.  Divides vectors</description>
+</snippet>

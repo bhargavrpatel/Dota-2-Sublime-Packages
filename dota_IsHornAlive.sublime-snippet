@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[IsHornAlive() ${1:--[[Returns:bool
+Is the Nian's horn broken?
+]]}]]></content>
+	<tabTrigger>IsHornAlive</tabTrigger>
+	<scope>source.lua</scope>
+	<description>Is the Nian's horn broken?</description>
+</snippet>

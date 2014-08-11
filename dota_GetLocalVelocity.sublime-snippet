@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[GetLocalVelocity() ${1:--[[Returns:Vector
+Get Entity relative velocity
+]]}]]></content>
+	<tabTrigger>GetLocalVelocity</tabTrigger>
+	<scope>source.lua</scope>
+	<description>Get Entity relative velocity</description>
+</snippet>

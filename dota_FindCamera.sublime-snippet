@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[FindCamera() ${1:--[[Returns:handle
+Get the camera
+]]}]]></content>
+	<tabTrigger>FindCamera</tabTrigger>
+	<scope>source.lua</scope>
+	<description>Get the camera</description>
+</snippet>

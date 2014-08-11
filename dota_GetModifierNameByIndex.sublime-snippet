@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[GetModifierNameByIndex(${1:int a}) ${2:--[[Returns:string
+Get a modifier name by index.
+]]}]]></content>
+	<tabTrigger>GetModifierNameByIndex</tabTrigger>
+	<scope>source.lua</scope>
+	<description>Get a modifier name by index.</description>
+</snippet>

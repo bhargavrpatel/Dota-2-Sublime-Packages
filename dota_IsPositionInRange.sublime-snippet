@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[IsPositionInRange(${1:Vector a}, ${2:float b}) ${3:--[[Returns:bool
+No Description Set
+]]}]]></content>
+	<tabTrigger>IsPositionInRange</tabTrigger>
+	<scope>source.lua</scope>
+	<description>No Description Set</description>
+</snippet>

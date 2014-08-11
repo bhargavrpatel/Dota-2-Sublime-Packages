@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[PushDebugOverlayScope(${1:utlstringtoken a}) ${2:--[[Returns:void
+Pushes an identifier used to group overlays. Overlays marked with this identifier can be deleted in a big batch.
+]]}]]></content>
+	<tabTrigger>PushDebugOverlayScope</tabTrigger>
+	<scope>source.lua</scope>
+	<description>Pushes an identifier used to group overlays. Overlays marked with this identifier can be deleted in a big batch.</description>
+</snippet>

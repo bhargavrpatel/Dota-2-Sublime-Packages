@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[IsFacing(${1:Vector a}, ${2:float b}) ${3:--[[Returns:bool
+( vecTargetPosition, flAngleTolerance ) - returns true if the unit is within flAngleTolerance degrees of the target position
+]]}]]></content>
+	<tabTrigger>IsFacing</tabTrigger>
+	<scope>source.lua</scope>
+	<description>( vecTargetPosition, flAngleTolerance ) - returns true if the unit is within flAngleTolerance degrees of the target position</description>
+</snippet>

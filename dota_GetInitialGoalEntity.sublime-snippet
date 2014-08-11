@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[GetInitialGoalEntity() ${1:--[[Returns:handle
+Returns the initial waypoint goal for this NPC
+]]}]]></content>
+	<tabTrigger>GetInitialGoalEntity</tabTrigger>
+	<scope>source.lua</scope>
+	<description>Returns the initial waypoint goal for this NPC</description>
+</snippet>

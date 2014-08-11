@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[SetSightConeRange(${1:float a}) ${2:--[[Returns:void
+( fRange ) - set range of unit's sight cone
+]]}]]></content>
+	<tabTrigger>SetSightConeRange</tabTrigger>
+	<scope>source.lua</scope>
+	<description>( fRange ) - set range of unit's sight cone</description>
+</snippet>

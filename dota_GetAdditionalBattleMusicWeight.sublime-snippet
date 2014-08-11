@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[GetAdditionalBattleMusicWeight() ${1:--[[Returns:float
+Combat involving this creature will have this weight added to the music calcuations
+]]}]]></content>
+	<tabTrigger>GetAdditionalBattleMusicWeight</tabTrigger>
+	<scope>source.lua</scope>
+	<description>Combat involving this creature will have this weight added to the music calcuations</description>
+</snippet>

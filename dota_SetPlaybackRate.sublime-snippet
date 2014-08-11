@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[SetPlaybackRate(${1:float a}) ${2:--[[Returns:void
+Override playbackrate
+]]}]]></content>
+	<tabTrigger>SetPlaybackRate</tabTrigger>
+	<scope>source.lua</scope>
+	<description>Override playbackrate</description>
+</snippet>

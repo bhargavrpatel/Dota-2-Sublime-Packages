@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[GetAttackDamage() ${1:--[[Returns:int
+Returns a random integer between the minimum and maximum base damage of the unit.
+]]}]]></content>
+	<tabTrigger>GetAttackDamage</tabTrigger>
+	<scope>source.lua</scope>
+	<description>Returns a random integer between the minimum and maximum base damage of the unit.</description>
+</snippet>

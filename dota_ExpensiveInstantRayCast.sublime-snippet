@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[ExpensiveInstantRayCast(${1:Vector a}, ${2:Vector b}, ${3:handle c}) ${4:--[[Returns:bool
+Do an instant (i.e. blocking) Ray Cast. Will do a handle/queue version later. Don't plan to use this for real!
+]]}]]></content>
+	<tabTrigger>ExpensiveInstantRayCast</tabTrigger>
+	<scope>source.lua</scope>
+	<description>Do an instant (i.e. blocking) Ray Cast. Will do a handle/queue version later. Don't plan to use this for real!</description>
+</snippet>

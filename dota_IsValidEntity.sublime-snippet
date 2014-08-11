@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[IsValidEntity(${1:handle a}) ${2:--[[Returns:bool
+Checks to see if the given hScript is a valid entity
+]]}]]></content>
+	<tabTrigger>IsValidEntity</tabTrigger>
+	<scope>source.lua</scope>
+	<description>Checks to see if the given hScript is a valid entity</description>
+</snippet>

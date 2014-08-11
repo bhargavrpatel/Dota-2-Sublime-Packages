@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[GetCollisionPadding() ${1:--[[Returns:float
+Returns the size of the collision padding around the hull.
+]]}]]></content>
+	<tabTrigger>GetCollisionPadding</tabTrigger>
+	<scope>source.lua</scope>
+	<description>Returns the size of the collision padding around the hull.</description>
+</snippet>

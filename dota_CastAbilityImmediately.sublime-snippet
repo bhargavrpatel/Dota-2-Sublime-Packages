@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[CastAbilityImmediately(${1:handle a}, ${2:int b}) ${3:--[[Returns:void
+Cast an ability immediately.
+]]}]]></content>
+	<tabTrigger>CastAbilityImmediately</tabTrigger>
+	<scope>source.lua</scope>
+	<description>Cast an ability immediately.</description>
+</snippet>

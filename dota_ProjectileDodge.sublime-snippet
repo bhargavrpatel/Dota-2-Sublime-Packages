@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[ProjectileDodge(${1:handle a}) ${2:--[[Returns:void
+Makes the specified unit dodge projectiles
+]]}]]></content>
+	<tabTrigger>ProjectileDodge</tabTrigger>
+	<scope>source.lua</scope>
+	<description>Makes the specified unit dodge projectiles</description>
+</snippet>

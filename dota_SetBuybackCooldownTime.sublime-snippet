@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[SetBuybackCooldownTime(${1:float a}) ${2:--[[Returns:void
+Sets the buyback cooldown time.
+]]}]]></content>
+	<tabTrigger>SetBuybackCooldownTime</tabTrigger>
+	<scope>source.lua</scope>
+	<description>Sets the buyback cooldown time.</description>
+</snippet>

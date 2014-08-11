@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[StopEffect(${1:handle a}, ${2:string b}) ${3:--[[Returns:void
+(hEntity, szEffectName)
+]]}]]></content>
+	<tabTrigger>StopEffect</tabTrigger>
+	<scope>source.lua</scope>
+	<description>(hEntity, szEffectName)</description>
+</snippet>

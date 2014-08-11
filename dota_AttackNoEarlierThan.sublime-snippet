@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[AttackNoEarlierThan(${1:float a}) ${2:--[[Returns:void
+No Description Set
+]]}]]></content>
+	<tabTrigger>AttackNoEarlierThan</tabTrigger>
+	<scope>source.lua</scope>
+	<description>No Description Set</description>
+</snippet>

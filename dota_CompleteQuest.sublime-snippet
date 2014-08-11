@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[CompleteQuest() ${1:--[[Returns:void
+Mark this quest complete
+]]}]]></content>
+	<tabTrigger>CompleteQuest</tabTrigger>
+	<scope>source.lua</scope>
+	<description>Mark this quest complete</description>
+</snippet>

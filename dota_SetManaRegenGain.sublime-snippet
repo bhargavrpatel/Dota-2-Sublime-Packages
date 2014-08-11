@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[SetManaRegenGain(${1:float a}) ${2:--[[Returns:void
+Set the mana point's regen gained per level on this creature.
+]]}]]></content>
+	<tabTrigger>SetManaRegenGain</tabTrigger>
+	<scope>source.lua</scope>
+	<description>Set the mana point's regen gained per level on this creature.</description>
+</snippet>

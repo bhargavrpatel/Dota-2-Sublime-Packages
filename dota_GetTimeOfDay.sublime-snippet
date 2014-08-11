@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[GetTimeOfDay() ${1:--[[Returns:float
+Get the time of day
+]]}]]></content>
+	<tabTrigger>GetTimeOfDay</tabTrigger>
+	<scope>source.lua</scope>
+	<description>Get the time of day</description>
+</snippet>

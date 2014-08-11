@@ -1,7 +1,0 @@
-<snippet>
-	<content><![CDATA[UTIL_Remove(${1:handle a})]]></content>
-	<tabTrigger>UTIL_Remove</tabTrigger>
-	<scope>source.lua</scope>
-	<description>Removes the specified entity.</description>
-</snippet>
-

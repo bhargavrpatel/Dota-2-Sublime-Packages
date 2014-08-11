@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[IsFullyCastable() ${1:--[[Returns:bool
+Returns whether the ability can be cast.
+]]}]]></content>
+	<tabTrigger>IsFullyCastable</tabTrigger>
+	<scope>source.lua</scope>
+	<description>Returns whether the ability can be cast.</description>
+</snippet>

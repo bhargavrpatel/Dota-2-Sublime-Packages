@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[FilledRect2D(${1:Vector2D a}, ${2:Vector2D b}, ${3:int c}, ${4:int d}, ${5:int e}, ${6:int f}, ${7:float g}) ${8:--[[Returns:void
+Draws a screen-space filled 2D rectangle. Coordinates are in pixels.
+]]}]]></content>
+	<tabTrigger>FilledRect2D</tabTrigger>
+	<scope>source.lua</scope>
+	<description>Draws a screen-space filled 2D rectangle. Coordinates are in pixels.</description>
+</snippet>

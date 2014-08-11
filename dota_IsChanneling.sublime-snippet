@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[IsChanneling() ${1:--[[Returns:bool
+Returns whether the ability is currently channeling.
+]]}]]></content>
+	<tabTrigger>IsChanneling</tabTrigger>
+	<scope>source.lua</scope>
+	<description>Returns whether the ability is currently channeling.</description>
+</snippet>

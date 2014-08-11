@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[CreateItem(${1:string item_name}, ${2:handle owner}, ${3:handle owner}) ${4:--[[Returns:handle
+Creates an item with classname <i>item_name</i> that <i>owner</i> can use.
+]]}]]></content>
+	<tabTrigger>CreateItem</tabTrigger>
+	<scope>source.lua</scope>
+	<description>Creates an item with classname <i>item_name</i> that <i>owner</i> can use.</description>
+</snippet>

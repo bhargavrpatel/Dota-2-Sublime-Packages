@@ -1,7 +1,0 @@
-<snippet>
-	<content><![CDATA[SpawnEntityListFromTableSynchronous(${1:handle a})]]></content>
-	<tabTrigger>SpawnEntityListFromTableSynchronous</tabTrigger>
-	<scope>source.lua</scope>
-	<description>Synchronously spawn an entity group from a list of spawn table's.</description>
-</snippet>
-

@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[ActionState() ${1:--[[Returns:handle
+return the ActionState object for this unit.
+]]}]]></content>
+	<tabTrigger>ActionState</tabTrigger>
+	<scope>source.lua</scope>
+	<description>return the ActionState object for this unit.</description>
+</snippet>

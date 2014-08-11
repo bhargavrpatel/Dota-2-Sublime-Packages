@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[IsCreature() ${1:--[[Returns:bool
+Is this a Creature type NPC
+]]}]]></content>
+	<tabTrigger>IsCreature</tabTrigger>
+	<scope>source.lua</scope>
+	<description>Is this a Creature type NPC</description>
+</snippet>

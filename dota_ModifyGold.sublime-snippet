@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[ModifyGold(${1:int goldAmmt}, ${2:bool reliable}, ${3:int reason}) ${4:--[[Returns:int
+Gives this hero some gold. Args: ''int'' nGoldChange, ''bool'' bReliable, ''int'' reason
+]]}]]></content>
+	<tabTrigger>ModifyGold</tabTrigger>
+	<scope>source.lua</scope>
+	<description>Gives this hero some gold. Args: ''int'' nGoldChange, ''bool'' bReliable, ''int'' reason</description>
+</snippet>

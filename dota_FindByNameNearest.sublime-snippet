@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[FindByNameNearest(${1:string name}, ${2:Vector origin}, ${3:float maxRadius}) ${4:--[[Returns:handle
+Find entities by name nearest to a point.
+]]}]]></content>
+	<tabTrigger>FindByNameNearest</tabTrigger>
+	<scope>source.lua</scope>
+	<description>Find entities by name nearest to a point.</description>
+</snippet>

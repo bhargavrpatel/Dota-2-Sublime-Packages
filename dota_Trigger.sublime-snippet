@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[Trigger() ${1:--[[Returns:void
+Fires off this entity's OnTrigger responses
+]]}]]></content>
+	<tabTrigger>Trigger</tabTrigger>
+	<scope>source.lua</scope>
+	<description>Fires off this entity's OnTrigger responses</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[QueryColor(${1:utlstringtoken a}, ${2:Vector b}) ${3:--[[Returns:Vector
+Query color data for this key
+]]}]]></content>
+	<tabTrigger>QueryColor</tabTrigger>
+	<scope>source.lua</scope>
+	<description>Query color data for this key</description>
+</snippet>

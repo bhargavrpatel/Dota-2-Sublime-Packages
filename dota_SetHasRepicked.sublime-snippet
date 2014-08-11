@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[SetHasRepicked(${1:int playerID}) ${2:--[[Returns:void
+No Description Set
+]]}]]></content>
+	<tabTrigger>SetHasRepicked</tabTrigger>
+	<scope>source.lua</scope>
+	<description>No Description Set</description>
+</snippet>

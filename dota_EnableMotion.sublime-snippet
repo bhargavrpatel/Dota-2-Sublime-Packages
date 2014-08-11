@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[EnableMotion() ${1:--[[Returns:void
+Enable motion for the prop
+]]}]]></content>
+	<tabTrigger>EnableMotion</tabTrigger>
+	<scope>source.lua</scope>
+	<description>Enable motion for the prop</description>
+</snippet>

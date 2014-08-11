@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[GetProjectileSpeed() ${1:--[[Returns:int
+No Description Set
+]]}]]></content>
+	<tabTrigger>GetProjectileSpeed</tabTrigger>
+	<scope>source.lua</scope>
+	<description>No Description Set</description>
+</snippet>

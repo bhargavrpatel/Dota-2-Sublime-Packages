@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[Init(${1:int a}) ${2:--[[Returns:void
+Initialize with number of outputs
+]]}]]></content>
+	<tabTrigger>Init</tabTrigger>
+	<scope>source.lua</scope>
+	<description>Initialize with number of outputs</description>
+</snippet>

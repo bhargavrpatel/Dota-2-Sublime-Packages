@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[IsMechanical() ${1:--[[Returns:bool
+Is the unit mechanical?
+]]}]]></content>
+	<tabTrigger>IsMechanical</tabTrigger>
+	<scope>source.lua</scope>
+	<description>Is the unit mechanical?</description>
+</snippet>

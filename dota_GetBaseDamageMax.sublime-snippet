@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[GetBaseDamageMax() ${1:--[[Returns:int
+Hero damage is also affected by attributes.
+]]}]]></content>
+	<tabTrigger>GetBaseDamageMax</tabTrigger>
+	<scope>source.lua</scope>
+	<description>Hero damage is also affected by attributes.</description>
+</snippet>

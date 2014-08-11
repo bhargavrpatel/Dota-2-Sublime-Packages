@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[GetMovementTargetEntity() ${1:--[[Returns:handle
+Returs the movement target entity, if set.
+]]}]]></content>
+	<tabTrigger>GetMovementTargetEntity</tabTrigger>
+	<scope>source.lua</scope>
+	<description>Returs the movement target entity, if set.</description>
+</snippet>

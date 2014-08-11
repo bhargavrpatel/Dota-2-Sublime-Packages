@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[SetGoldSoundDisabled(${1:bool a}) ${2:--[[Returns:void
+Turn the sound when gold is acquired off/on. Takes a ''bool''.
+]]}]]></content>
+	<tabTrigger>SetGoldSoundDisabled</tabTrigger>
+	<scope>source.lua</scope>
+	<description>Turn the sound when gold is acquired off/on. Takes a ''bool''.</description>
+</snippet>

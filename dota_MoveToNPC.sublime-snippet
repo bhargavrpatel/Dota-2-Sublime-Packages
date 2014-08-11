@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[MoveToNPC(${1:handle a}) ${2:--[[Returns:void
+Move to follow a unit.
+]]}]]></content>
+	<tabTrigger>MoveToNPC</tabTrigger>
+	<scope>source.lua</scope>
+	<description>Move to follow a unit.</description>
+</snippet>

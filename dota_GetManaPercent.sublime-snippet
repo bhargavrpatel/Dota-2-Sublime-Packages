@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[GetManaPercent() ${1:--[[Returns:int
+Get the percent of mana remaining.
+]]}]]></content>
+	<tabTrigger>GetManaPercent</tabTrigger>
+	<scope>source.lua</scope>
+	<description>Get the percent of mana remaining.</description>
+</snippet>

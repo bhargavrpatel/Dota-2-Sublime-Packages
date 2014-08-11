@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[ProcsMagicStick() ${1:--[[Returns:bool
+No Description Set
+]]}]]></content>
+	<tabTrigger>ProcsMagicStick</tabTrigger>
+	<scope>source.lua</scope>
+	<description>No Description Set</description>
+</snippet>

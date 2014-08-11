@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[KilledHero(${1:handle a}, ${2:handle b}) ${3:--[[Returns:void
+Args: Hero, Inflictor
+]]}]]></content>
+	<tabTrigger>KilledHero</tabTrigger>
+	<scope>source.lua</scope>
+	<description>Args: Hero, Inflictor</description>
+</snippet>

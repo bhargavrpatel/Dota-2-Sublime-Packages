@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[EmitSoundParams(${1:string soundName}, ${2:int pitch}, ${3:float volume}, ${4:float soundTime}) ${5:--[[Returns:void
+Plays/modifies a sound from this entity. changes sound if Pitch and/or Volume or SoundTime is > 0.
+]]}]]></content>
+	<tabTrigger>EmitSoundParams</tabTrigger>
+	<scope>source.lua</scope>
+	<description>Plays/modifies a sound from this entity. changes sound if Pitch and/or Volume or SoundTime is > 0.</description>
+</snippet>

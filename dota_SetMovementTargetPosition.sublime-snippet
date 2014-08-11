@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[SetMovementTargetPosition(${1:Vector a}, ${2:float b}) ${3:--[[Returns:void
+( vecTargetPosition, flTargetRange ) - Try to move this unit to the given range from the target point.
+]]}]]></content>
+	<tabTrigger>SetMovementTargetPosition</tabTrigger>
+	<scope>source.lua</scope>
+	<description>( vecTargetPosition, flTargetRange ) - Try to move this unit to the given range from the target point.</description>
+</snippet>

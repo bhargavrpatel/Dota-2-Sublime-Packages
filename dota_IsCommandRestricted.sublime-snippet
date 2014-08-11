@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[IsCommandRestricted() ${1:--[[Returns:bool
+No Description Set
+]]}]]></content>
+	<tabTrigger>IsCommandRestricted</tabTrigger>
+	<scope>source.lua</scope>
+	<description>No Description Set</description>
+</snippet>

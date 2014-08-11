@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[SetBaseMoveSpeed(${1:int a}) ${2:--[[Returns:void
+No Description Set
+]]}]]></content>
+	<tabTrigger>SetBaseMoveSpeed</tabTrigger>
+	<scope>source.lua</scope>
+	<description>No Description Set</description>
+</snippet>

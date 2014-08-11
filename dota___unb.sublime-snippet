@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[__unb() ${1:--[[Returns:Vector
+Overloaded - operator
+]]}]]></content>
+	<tabTrigger>__unb</tabTrigger>
+	<scope>source.lua</scope>
+	<description>Overloaded - operator</description>
+</snippet>

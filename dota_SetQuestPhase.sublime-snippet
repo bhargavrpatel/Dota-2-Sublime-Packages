@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[SetQuestPhase(${1:int a}) ${2:--[[Returns:void
+Set the current quest phase.
+]]}]]></content>
+	<tabTrigger>SetQuestPhase</tabTrigger>
+	<scope>source.lua</scope>
+	<description>Set the current quest phase.</description>
+</snippet>

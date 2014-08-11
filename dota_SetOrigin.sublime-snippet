@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[SetOrigin(${1:Vector origin}) ${2:--[[Returns:void
+No Description Set
+]]}]]></content>
+	<tabTrigger>SetOrigin</tabTrigger>
+	<scope>source.lua</scope>
+	<description>No Description Set</description>
+</snippet>

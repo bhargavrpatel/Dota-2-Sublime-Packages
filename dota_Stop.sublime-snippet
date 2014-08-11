@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[Stop() ${1:--[[Returns:void
+Stop the current order.
+]]}]]></content>
+	<tabTrigger>Stop</tabTrigger>
+	<scope>source.lua</scope>
+	<description>Stop the current order.</description>
+</snippet>

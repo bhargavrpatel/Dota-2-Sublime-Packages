@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[SplineQuaternions(${1:Quaternion a}, ${2:Quaternion b}, ${3:float c}) ${4:--[[Returns:Quaternion
+(quaternion,quaternion,''float'') very basic interpolation of v0 to v1 over t on [0,1]
+]]}]]></content>
+	<tabTrigger>SplineQuaternions</tabTrigger>
+	<scope>source.lua</scope>
+	<description>(quaternion,quaternion,''float'') very basic interpolation of v0 to v1 over t on [0,1]</description>
+</snippet>

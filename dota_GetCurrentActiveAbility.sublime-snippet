@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[GetCurrentActiveAbility() ${1:--[[Returns:handle
+Get the ability this unit is currently casting.
+]]}]]></content>
+	<tabTrigger>GetCurrentActiveAbility</tabTrigger>
+	<scope>source.lua</scope>
+	<description>Get the ability this unit is currently casting.</description>
+</snippet>

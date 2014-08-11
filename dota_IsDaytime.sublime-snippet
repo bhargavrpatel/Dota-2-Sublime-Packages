@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[IsDaytime() ${1:--[[Returns:bool
+Is it day time.
+]]}]]></content>
+	<tabTrigger>IsDaytime</tabTrigger>
+	<scope>source.lua</scope>
+	<description>Is it day time.</description>
+</snippet>

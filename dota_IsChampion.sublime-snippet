@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[IsChampion() ${1:--[[Returns:bool
+Is this unit a champion?
+]]}]]></content>
+	<tabTrigger>IsChampion</tabTrigger>
+	<scope>source.lua</scope>
+	<description>Is this unit a champion?</description>
+</snippet>

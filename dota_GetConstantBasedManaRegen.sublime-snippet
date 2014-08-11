@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[GetConstantBasedManaRegen() ${1:--[[Returns:float
+This Mana regen is derived from constant bonuses like Basilius.
+]]}]]></content>
+	<tabTrigger>GetConstantBasedManaRegen</tabTrigger>
+	<scope>source.lua</scope>
+	<description>This Mana regen is derived from constant bonuses like Basilius.</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[GetWorldMinY() ${1:--[[Returns:float
+Gets the world's minimum Y position.
+]]}]]></content>
+	<tabTrigger>GetWorldMinY</tabTrigger>
+	<scope>source.lua</scope>
+	<description>Gets the world's minimum Y position.</description>
+</snippet>

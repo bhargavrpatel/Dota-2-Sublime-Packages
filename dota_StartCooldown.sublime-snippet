@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[StartCooldown(${1:float a}) ${2:--[[Returns:void
+param: flCooldown
+]]}]]></content>
+	<tabTrigger>StartCooldown</tabTrigger>
+	<scope>source.lua</scope>
+	<description>param: flCooldown</description>
+</snippet>

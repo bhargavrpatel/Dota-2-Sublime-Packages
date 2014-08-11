@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[WorldToGridPosX(${1:float a}) ${2:--[[Returns:int
+Get the X index of a given world X position
+]]}]]></content>
+	<tabTrigger>WorldToGridPosX</tabTrigger>
+	<scope>source.lua</scope>
+	<description>Get the X index of a given world X position</description>
+</snippet>

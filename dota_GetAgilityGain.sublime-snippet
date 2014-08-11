@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[GetAgilityGain() ${1:--[[Returns:float
+No Description Set
+]]}]]></content>
+	<tabTrigger>GetAgilityGain</tabTrigger>
+	<scope>source.lua</scope>
+	<description>No Description Set</description>
+</snippet>

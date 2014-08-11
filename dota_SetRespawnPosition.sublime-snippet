@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[SetRespawnPosition(${1:Vector a}) ${2:--[[Returns:void
+No Description Set
+]]}]]></content>
+	<tabTrigger>SetRespawnPosition</tabTrigger>
+	<scope>source.lua</scope>
+	<description>No Description Set</description>
+</snippet>

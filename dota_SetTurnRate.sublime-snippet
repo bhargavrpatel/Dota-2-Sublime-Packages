@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[SetTurnRate(${1:float a}) ${2:--[[Returns:void
+( flTurnRate ) - sets unit's turn rate in degrees per second
+]]}]]></content>
+	<tabTrigger>SetTurnRate</tabTrigger>
+	<scope>source.lua</scope>
+	<description>( flTurnRate ) - sets unit's turn rate in degrees per second</description>
+</snippet>

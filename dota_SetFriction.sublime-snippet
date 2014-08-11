@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[SetFriction(${1:float a}) ${2:--[[Returns:void
+Set PLAYER friction, ignored for objects
+]]}]]></content>
+	<tabTrigger>SetFriction</tabTrigger>
+	<scope>source.lua</scope>
+	<description>Set PLAYER friction, ignored for objects</description>
+</snippet>

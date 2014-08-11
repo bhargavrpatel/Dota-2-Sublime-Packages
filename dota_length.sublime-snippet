@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[length() ${1:--[[Returns:float
+Length of the Vector
+]]}]]></content>
+	<tabTrigger>length</tabTrigger>
+	<scope>source.lua</scope>
+	<description>Length of the Vector</description>
+</snippet>

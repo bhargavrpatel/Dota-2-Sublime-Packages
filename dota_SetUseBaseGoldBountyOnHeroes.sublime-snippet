@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[SetUseBaseGoldBountyOnHeroes(${1:bool a}) ${2:--[[Returns:void
+Heroes will use the basic NPC functionality for determining their bounty, rather than DOTA specific formulas.
+]]}]]></content>
+	<tabTrigger>SetUseBaseGoldBountyOnHeroes</tabTrigger>
+	<scope>source.lua</scope>
+	<description>Heroes will use the basic NPC functionality for determining their bounty, rather than DOTA specific formulas.</description>
+</snippet>

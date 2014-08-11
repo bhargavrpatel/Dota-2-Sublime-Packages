@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[AlertNearbyUnits(${1:handle a}, ${2:handle b}) ${3:--[[Returns:void
+No Description Set
+]]}]]></content>
+	<tabTrigger>AlertNearbyUnits</tabTrigger>
+	<scope>source.lua</scope>
+	<description>No Description Set</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[IsAttackImmune() ${1:--[[Returns:bool
+No Description Set
+]]}]]></content>
+	<tabTrigger>IsAttackImmune</tabTrigger>
+	<scope>source.lua</scope>
+	<description>No Description Set</description>
+</snippet>

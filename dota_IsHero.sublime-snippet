@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[IsHero() ${1:--[[Returns:bool
+Is this a hero or hero illusion?
+]]}]]></content>
+	<tabTrigger>IsHero</tabTrigger>
+	<scope>source.lua</scope>
+	<description>Is this a hero or hero illusion?</description>
+</snippet>

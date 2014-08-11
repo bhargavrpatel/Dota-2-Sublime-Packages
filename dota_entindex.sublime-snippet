@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[entindex() ${1:--[[Returns:int
+No Description Set
+]]}]]></content>
+	<tabTrigger>entindex</tabTrigger>
+	<scope>source.lua</scope>
+	<description>No Description Set</description>
+</snippet>

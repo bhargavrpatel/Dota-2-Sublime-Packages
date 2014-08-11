@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[FindAbilityByName(${1:string a}) ${2:--[[Returns:handle
+Retrieve an ability by name from the unit.
+]]}]]></content>
+	<tabTrigger>FindAbilityByName</tabTrigger>
+	<scope>source.lua</scope>
+	<description>Retrieve an ability by name from the unit.</description>
+</snippet>

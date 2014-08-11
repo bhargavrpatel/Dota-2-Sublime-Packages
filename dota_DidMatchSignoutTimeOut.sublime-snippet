@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[DidMatchSignoutTimeOut() ${1:--[[Returns:bool
+true when we have waited some time after end of the game and not received signout
+]]}]]></content>
+	<tabTrigger>DidMatchSignoutTimeOut</tabTrigger>
+	<scope>source.lua</scope>
+	<description>true when we have waited some time after end of the game and not received signout</description>
+</snippet>

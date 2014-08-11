@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[GetTotalPurchasedUpgradeGoldCost() ${1:--[[Returns:int
+Get how much gold has been spent on ability upgrades.
+]]}]]></content>
+	<tabTrigger>GetTotalPurchasedUpgradeGoldCost</tabTrigger>
+	<scope>source.lua</scope>
+	<description>Get how much gold has been spent on ability upgrades.</description>
+</snippet>

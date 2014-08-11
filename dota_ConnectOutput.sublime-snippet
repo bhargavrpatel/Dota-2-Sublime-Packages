@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[ConnectOutput(${1:string a}, ${2:string b}) ${3:--[[Returns:void
+Adds an I/O connection that will call the named function on this entity when the specified output fires.
+]]}]]></content>
+	<tabTrigger>ConnectOutput</tabTrigger>
+	<scope>source.lua</scope>
+	<description>Adds an I/O connection that will call the named function on this entity when the specified output fires.</description>
+</snippet>

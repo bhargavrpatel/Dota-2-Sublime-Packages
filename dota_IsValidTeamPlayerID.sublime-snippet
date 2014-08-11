@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[IsValidTeamPlayerID(${1:int playerID}) ${2:--[[Returns:bool
+No Description Set
+]]}]]></content>
+	<tabTrigger>IsValidTeamPlayerID</tabTrigger>
+	<scope>source.lua</scope>
+	<description>No Description Set</description>
+</snippet>
